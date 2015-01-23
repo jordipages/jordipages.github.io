@@ -1,0 +1,48 @@
+<!-- Footer -->
+<footer class="no-padding">
+
+  <div class="footer-section">
+
+    <div class="purple-bg">
+    
+      <div class="container text-center">
+        <div class="row">
+
+          <h2>Un projecte de</h2>
+          
+          <div class="col-sm-6 col-lg-6">
+              <a href="{{ site.organitza.artinpocket.url }}"><img src="/images/{{ site.organitza.artinpocket.logo }}" alt="{{ site.organitza.artinpocket.description }}" title="{{ site.organitza.artinpocket.description }}"></a>
+          </div>
+              
+          <div class="col-sm-6 col-lg-6">
+              <a href="{{ site.organitza.sidpublicitat.url }}"><img src="/images/{{ site.organitza.sidpublicitat.logo }}" alt="{{ site.organitza.sidpublicitat.description }}" title="{{ site.organitza.sidpublicitat.description }}"></a>
+          </div>
+
+        </div>
+
+        <hr/>
+
+          <p>Copyright &copy; {{ site.title }}</p>
+          <p>{{ site.description }}</p>
+
+        <hr/>
+          
+          {% for place in site.data.places %}
+          <div class="address"><p>{{ place.name }} | <small><strong>Adreça:</strong> {{ place.address }} - <strong>Telèfon:</strong> <a href="tel:{{ place.phone }}">{{ place.phone }}</a> - <a href="{{ place.url }}" title="{{ place.name }}" rel="external"><i class="fa fa-external-link"></i></a> | <a href="https://twitter.com/{{ place.twitter }}" title="@{{ place.twitter }}" rel="external"><i class="fa fa-twitter"></i></a> | <a href="{{ place.facebook }}" title="{{ place.name }} en Facebook" rel="external"><i class="fa fa-facebook"></i></a> | <a href="mailto:{{ place.email }}" title="Correo-e {{ place.email }}" rel="external"><i class="fa fa-envelope"></i></a></small></p></div>
+          {% endfor %}
+
+        <hr/>
+
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2">
+            <h2>Partner Tecnològic</h2>
+              <a href="{{ site.colabora.oxygen.url }}"><img src="/images/{{ site.colabora.oxygen.logo }}" alt="{{ site.colabora.oxygen.description }}" title="{{ site.colabora.oxygen.description }}"></a>
+            </div>
+        </div>
+      </div>
+
+    </div>
+
+  </div>
+
+</footer>

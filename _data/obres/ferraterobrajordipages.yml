@@ -1,0 +1,235 @@
+---
+  - 
+    title: "Els miralls. Jordi Pagès"
+    id: 3976
+    aspect_ratio: "9-16"
+    created_at: "2015-01-16T13:49:25Z"
+    updated_at: "2015-01-17T11:27:07Z"
+    type: "simple"
+    status: "publish"
+    downloadable: false
+    virtual: false
+    permalink: "http://www.artinpocket.cat/tienda/els-miralls-jordi-pages/"
+    sku: "W860"
+    price: "550.00"
+    regular_price: "550.00"
+    sale_price: null
+    price_html: "<span class=\"amount\">550,00&euro;</span>"
+    taxable: true
+    tax_status: "taxable"
+    tax_class: ""
+    managing_stock: true
+    stock_quantity: 1
+    in_stock: true
+    backorders_allowed: false
+    backordered: false
+    sold_individually: true
+    purchaseable: true
+    featured: false
+    visible: true
+    catalog_visibility: "visible"
+    on_sale: false
+    weight: null
+    dimensions: 
+      length: ""
+      width: "70"
+      height: "50"
+      unit: "cm"
+    shipping_required: true
+    shipping_taxable: true
+    shipping_class: "transport"
+    shipping_class_id: 71
+    description: "<p>Sèrie Gabriel Ferrater.</p>\n<p>Els miralls (2012)</p>\n<p>Acrílic i llapis.</p>\n"
+    short_description: "<p>Sèrie Gabriel Ferrater (2012).</p>\n"
+    reviews_allowed: true
+    average_rating: "0.00"
+    rating_count: 0
+    related_ids: 
+      - 2914
+      - 2826
+      - 2406
+      - 2314
+      - 4014
+    upsell_ids: []
+    cross_sell_ids: []
+    parent_id: 0
+    categories: 
+      - "-ANALÓGICO"
+      - "Collage"
+    tags: 
+      - "Jordi Pagès"
+    images: 
+      - 
+        id: 3977
+        created_at: "2015-01-16T13:51:45Z"
+        updated_at: "2015-01-16T13:51:45Z"
+        src: "http://www.artinpocket.cat/wp-content/uploads/2015/01/3.Jordi-Pagès-.-Collages-Sèrie-Gabriel-Ferrater.-Els-miralls.jpeg"
+        title: "3.Jordi-Pagès .-Collage(s)  Sèrie Gabriel Ferrater.  Els miralls"
+        alt: ""
+        position: 0
+    featured_src: "http://www.artinpocket.cat/wp-content/uploads/2015/01/3.Jordi-Pagès-.-Collages-Sèrie-Gabriel-Ferrater.-Els-miralls.jpeg"
+    attributes: []
+    downloads: []
+    download_limit: 0
+    download_expiry: 0
+    download_type: ""
+    purchase_note: ""
+    total_sales: 0
+    variations: []
+    parent: []
+  - 
+    title: "Architettura. Jordi Pagès"
+    id: 3974
+    aspect_ratio: "3-4"
+    created_at: "2015-01-16T13:45:17Z"
+    updated_at: "2015-01-16T13:49:04Z"
+    type: "simple"
+    status: "publish"
+    downloadable: false
+    virtual: false
+    permalink: "http://www.artinpocket.cat/tienda/architettura-jordi-pages/"
+    sku: "W859"
+    price: "350.00"
+    regular_price: "350.00"
+    sale_price: null
+    price_html: "<span class=\"amount\">350,00&euro;</span>"
+    taxable: true
+    tax_status: "taxable"
+    tax_class: ""
+    managing_stock: true
+    stock_quantity: 1
+    in_stock: true
+    backorders_allowed: false
+    backordered: false
+    sold_individually: true
+    purchaseable: true
+    featured: false
+    visible: true
+    catalog_visibility: "visible"
+    on_sale: false
+    weight: null
+    dimensions: 
+      length: ""
+      width: "40"
+      height: "50"
+      unit: "cm"
+    shipping_required: true
+    shipping_taxable: true
+    shipping_class: "transport"
+    shipping_class_id: 71
+    description: "<p>Sèrie Gabriel Ferrater .</p>\n<p>Architettura.</p>\n<p>Llapis d'oli sobre cartroné.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p><span style=\"line-height: 1.5;\"> </span></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p><span style=\"line-height: 1.5;\"> </span></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n"
+    short_description: "<p>Sèrie Gabriel Ferrater (2012).</p>\n"
+    reviews_allowed: true
+    average_rating: "0.00"
+    rating_count: 0
+    related_ids: 
+      - 2558
+      - 2925
+      - 2342
+      - 2514
+      - 2286
+    upsell_ids: []
+    cross_sell_ids: []
+    parent_id: 0
+    categories: 
+      - "-ANALÓGICO"
+      - "Collage"
+    tags: 
+      - "Jordi Pagès"
+    images: 
+      - 
+        id: 3975
+        created_at: "2015-01-16T13:46:53Z"
+        updated_at: "2015-01-16T13:46:53Z"
+        src: "http://www.artinpocket.cat/wp-content/uploads/2015/01/2.-Jordi-Pagès-Collages-Sèrie-Gabriel-Ferrater-Architettura.jpeg"
+        title: "2. Jordi-Pagès-  Collage(s)-Sèrie Gabriel-Ferrater- Architettura"
+        alt: ""
+        position: 0
+    featured_src: "http://www.artinpocket.cat/wp-content/uploads/2015/01/2.-Jordi-Pagès-Collages-Sèrie-Gabriel-Ferrater-Architettura.jpeg"
+    attributes: []
+    downloads: []
+    download_limit: 0
+    download_expiry: 0
+    download_type: ""
+    purchase_note: ""
+    total_sales: 0
+    variations: []
+    parent: []
+  - 
+    title: "Les dones. Jordi Pagès"
+    id: 3972
+    aspect_ratio: "3-4"
+    created_at: "2015-01-16T13:37:03Z"
+    updated_at: "2015-01-16T13:45:02Z"
+    type: "simple"
+    status: "publish"
+    downloadable: false
+    virtual: false
+    permalink: "http://www.artinpocket.cat/tienda/les-dones-jordi-pages/"
+    sku: "W858"
+    price: "550.00"
+    regular_price: "550.00"
+    sale_price: null
+    price_html: "<span class=\"amount\">550,00&euro;</span>"
+    taxable: true
+    tax_status: "taxable"
+    tax_class: ""
+    managing_stock: true
+    stock_quantity: 1
+    in_stock: true
+    backorders_allowed: false
+    backordered: false
+    sold_individually: true
+    purchaseable: true
+    featured: false
+    visible: true
+    catalog_visibility: "visible"
+    on_sale: false
+    weight: null
+    dimensions: 
+      length: ""
+      width: "70"
+      height: "50"
+      unit: "cm"
+    shipping_required: true
+    shipping_taxable: true
+    shipping_class: "transport"
+    shipping_class_id: 71
+    description: "<p>Sèrie Gabriel Ferrater (2012).</p>\n<p>Les dones.</p>\n<p>Acrílic amb llapis d'oli.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p><span style=\"line-height: 1.5;\"> </span></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p><span style=\"line-height: 1.5;\"> </span></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n"
+    short_description: "<p>Sèrie Gabriel Ferrater (2012).</p>\n"
+    reviews_allowed: true
+    average_rating: "0.00"
+    rating_count: 0
+    related_ids: 
+      - 2892
+      - 2958
+      - 2334
+      - 3750
+      - 2828
+    upsell_ids: []
+    cross_sell_ids: []
+    parent_id: 0
+    categories: 
+      - "-ANALÓGICO"
+      - "Collage"
+    tags: 
+      - "Jordi Pagès"
+    images: 
+      - 
+        id: 3973
+        created_at: "2015-01-16T13:44:22Z"
+        updated_at: "2015-01-16T13:44:22Z"
+        src: "http://www.artinpocket.cat/wp-content/uploads/2015/01/1.Jordi-Pagès-Collages-Sèrie-Gabriel-Ferrater-Les-dones.-.jpeg"
+        title: "1.Jordi-Pagès- Collage(s)-Sèrie Gabriel-Ferrater-Les-dones."
+        alt: ""
+        position: 0
+    featured_src: "http://www.artinpocket.cat/wp-content/uploads/2015/01/1.Jordi-Pagès-Collages-Sèrie-Gabriel-Ferrater-Les-dones.-.jpeg"
+    attributes: []
+    downloads: []
+    download_limit: 0
+    download_expiry: 0
+    download_type: ""
+    purchase_note: ""
+    total_sales: 0
+    variations: []
+    parent: []

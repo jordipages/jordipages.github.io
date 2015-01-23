@@ -1,0 +1,929 @@
+---
+  - 
+    title: "Els miralls. Jordi Pagès"
+    id: 3976
+    aspect_ratio: "9-16"
+    created_at: "2015-01-16T13:49:25Z"
+    updated_at: "2015-01-17T11:27:07Z"
+    type: "simple"
+    status: "publish"
+    downloadable: false
+    virtual: false
+    permalink: "http://www.artinpocket.cat/tienda/els-miralls-jordi-pages/"
+    sku: "W860"
+    price: "550.00"
+    regular_price: "550.00"
+    sale_price: null
+    price_html: "<span class=\"amount\">550,00&euro;</span>"
+    taxable: true
+    tax_status: "taxable"
+    tax_class: ""
+    managing_stock: true
+    stock_quantity: 1
+    in_stock: true
+    backorders_allowed: false
+    backordered: false
+    sold_individually: true
+    purchaseable: true
+    featured: false
+    visible: true
+    catalog_visibility: "visible"
+    on_sale: false
+    weight: null
+    dimensions: 
+      length: ""
+      width: "70"
+      height: "50"
+      unit: "cm"
+    shipping_required: true
+    shipping_taxable: true
+    shipping_class: "transport"
+    shipping_class_id: 71
+    description: "<p>Sèrie Gabriel Ferrater.</p>\n<p>Els miralls (2012)</p>\n<p>Acrílic i llapis.</p>\n"
+    short_description: "<p>Sèrie Gabriel Ferrater (2012).</p>\n"
+    reviews_allowed: true
+    average_rating: "0.00"
+    rating_count: 0
+    related_ids: 
+      - 2914
+      - 2826
+      - 2406
+      - 2314
+      - 4014
+    upsell_ids: []
+    cross_sell_ids: []
+    parent_id: 0
+    categories: 
+      - "-ANALÓGICO"
+      - "Collage"
+    tags: 
+      - "Jordi Pagès"
+    images: 
+      - 
+        id: 3977
+        created_at: "2015-01-16T13:51:45Z"
+        updated_at: "2015-01-16T13:51:45Z"
+        src: "http://www.artinpocket.cat/wp-content/uploads/2015/01/3.Jordi-Pagès-.-Collages-Sèrie-Gabriel-Ferrater.-Els-miralls.jpeg"
+        title: "3.Jordi-Pagès .-Collage(s)  Sèrie Gabriel Ferrater.  Els miralls"
+        alt: ""
+        position: 0
+    featured_src: "http://www.artinpocket.cat/wp-content/uploads/2015/01/3.Jordi-Pagès-.-Collages-Sèrie-Gabriel-Ferrater.-Els-miralls.jpeg"
+    attributes: []
+    downloads: []
+    download_limit: 0
+    download_expiry: 0
+    download_type: ""
+    purchase_note: ""
+    total_sales: 0
+    variations: []
+    parent: []
+  - 
+    title: "Architettura. Jordi Pagès"
+    id: 3974
+    aspect_ratio: "3-4"
+    created_at: "2015-01-16T13:45:17Z"
+    updated_at: "2015-01-16T13:49:04Z"
+    type: "simple"
+    status: "publish"
+    downloadable: false
+    virtual: false
+    permalink: "http://www.artinpocket.cat/tienda/architettura-jordi-pages/"
+    sku: "W859"
+    price: "350.00"
+    regular_price: "350.00"
+    sale_price: null
+    price_html: "<span class=\"amount\">350,00&euro;</span>"
+    taxable: true
+    tax_status: "taxable"
+    tax_class: ""
+    managing_stock: true
+    stock_quantity: 1
+    in_stock: true
+    backorders_allowed: false
+    backordered: false
+    sold_individually: true
+    purchaseable: true
+    featured: false
+    visible: true
+    catalog_visibility: "visible"
+    on_sale: false
+    weight: null
+    dimensions: 
+      length: ""
+      width: "40"
+      height: "50"
+      unit: "cm"
+    shipping_required: true
+    shipping_taxable: true
+    shipping_class: "transport"
+    shipping_class_id: 71
+    description: "<p>Sèrie Gabriel Ferrater .</p>\n<p>Architettura.</p>\n<p>Llapis d'oli sobre cartroné.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p><span style=\"line-height: 1.5;\"> </span></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p><span style=\"line-height: 1.5;\"> </span></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n"
+    short_description: "<p>Sèrie Gabriel Ferrater (2012).</p>\n"
+    reviews_allowed: true
+    average_rating: "0.00"
+    rating_count: 0
+    related_ids: 
+      - 2558
+      - 2925
+      - 2342
+      - 2514
+      - 2286
+    upsell_ids: []
+    cross_sell_ids: []
+    parent_id: 0
+    categories: 
+      - "-ANALÓGICO"
+      - "Collage"
+    tags: 
+      - "Jordi Pagès"
+    images: 
+      - 
+        id: 3975
+        created_at: "2015-01-16T13:46:53Z"
+        updated_at: "2015-01-16T13:46:53Z"
+        src: "http://www.artinpocket.cat/wp-content/uploads/2015/01/2.-Jordi-Pagès-Collages-Sèrie-Gabriel-Ferrater-Architettura.jpeg"
+        title: "2. Jordi-Pagès-  Collage(s)-Sèrie Gabriel-Ferrater- Architettura"
+        alt: ""
+        position: 0
+    featured_src: "http://www.artinpocket.cat/wp-content/uploads/2015/01/2.-Jordi-Pagès-Collages-Sèrie-Gabriel-Ferrater-Architettura.jpeg"
+    attributes: []
+    downloads: []
+    download_limit: 0
+    download_expiry: 0
+    download_type: ""
+    purchase_note: ""
+    total_sales: 0
+    variations: []
+    parent: []
+  - 
+    title: "Les dones. Jordi Pagès"
+    id: 3972
+    aspect_ratio: "3-4"
+    created_at: "2015-01-16T13:37:03Z"
+    updated_at: "2015-01-16T13:45:02Z"
+    type: "simple"
+    status: "publish"
+    downloadable: false
+    virtual: false
+    permalink: "http://www.artinpocket.cat/tienda/les-dones-jordi-pages/"
+    sku: "W858"
+    price: "550.00"
+    regular_price: "550.00"
+    sale_price: null
+    price_html: "<span class=\"amount\">550,00&euro;</span>"
+    taxable: true
+    tax_status: "taxable"
+    tax_class: ""
+    managing_stock: true
+    stock_quantity: 1
+    in_stock: true
+    backorders_allowed: false
+    backordered: false
+    sold_individually: true
+    purchaseable: true
+    featured: false
+    visible: true
+    catalog_visibility: "visible"
+    on_sale: false
+    weight: null
+    dimensions: 
+      length: ""
+      width: "70"
+      height: "50"
+      unit: "cm"
+    shipping_required: true
+    shipping_taxable: true
+    shipping_class: "transport"
+    shipping_class_id: 71
+    description: "<p>Sèrie Gabriel Ferrater (2012).</p>\n<p>Les dones.</p>\n<p>Acrílic amb llapis d'oli.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p><span style=\"line-height: 1.5;\"> </span></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p><span style=\"line-height: 1.5;\"> </span></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n"
+    short_description: "<p>Sèrie Gabriel Ferrater (2012).</p>\n"
+    reviews_allowed: true
+    average_rating: "0.00"
+    rating_count: 0
+    related_ids: 
+      - 2892
+      - 2958
+      - 2334
+      - 3750
+      - 2828
+    upsell_ids: []
+    cross_sell_ids: []
+    parent_id: 0
+    categories: 
+      - "-ANALÓGICO"
+      - "Collage"
+    tags: 
+      - "Jordi Pagès"
+    images: 
+      - 
+        id: 3973
+        created_at: "2015-01-16T13:44:22Z"
+        updated_at: "2015-01-16T13:44:22Z"
+        src: "http://www.artinpocket.cat/wp-content/uploads/2015/01/1.Jordi-Pagès-Collages-Sèrie-Gabriel-Ferrater-Les-dones.-.jpeg"
+        title: "1.Jordi-Pagès- Collage(s)-Sèrie Gabriel-Ferrater-Les-dones."
+        alt: ""
+        position: 0
+    featured_src: "http://www.artinpocket.cat/wp-content/uploads/2015/01/1.Jordi-Pagès-Collages-Sèrie-Gabriel-Ferrater-Les-dones.-.jpeg"
+    attributes: []
+    downloads: []
+    download_limit: 0
+    download_expiry: 0
+    download_type: ""
+    purchase_note: ""
+    total_sales: 0
+    variations: []
+    parent: []
+  - 
+    title: "Gèrmens de fúria perduts. Jordi Pagès"
+    id: 3970
+    created_at: "2015-01-16T13:32:40Z"
+    updated_at: "2015-01-16T14:02:08Z"
+    type: "simple"
+    status: "publish"
+    downloadable: false
+    virtual: false
+    permalink: "http://www.artinpocket.cat/tienda/germens-de-furia-perduts-jordi-pages/"
+    sku: "W857"
+    price: "550.00"
+    regular_price: "550.00"
+    sale_price: null
+    price_html: "<span class=\"amount\">550,00&euro;</span>"
+    taxable: true
+    tax_status: "taxable"
+    tax_class: ""
+    managing_stock: true
+    stock_quantity: 1
+    in_stock: true
+    backorders_allowed: false
+    backordered: false
+    sold_individually: true
+    purchaseable: true
+    featured: false
+    visible: true
+    catalog_visibility: "visible"
+    on_sale: false
+    weight: null
+    dimensions: 
+      length: ""
+      width: "40"
+      height: "50"
+      unit: "cm"
+    shipping_required: true
+    shipping_taxable: true
+    shipping_class: "transport"
+    shipping_class_id: 71
+    description: "<p>Sèrie inspirada en la poesia d'Enric Casasses (2013)</p>\n<p>GÈRMENS DE FÚRIA PERDUTS.</p>\n<p>Collage Tècnica mixta , acrílic, llapis. 50x70</p>\n<p>&nbsp;</p>\n<p><span style=\"line-height: 1.5;\"> </span></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p><span style=\"line-height: 1.5;\"> </span></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n"
+    short_description: "<p>Sèrie inspirada en la poesia d&#8217;Enric Casasses (2013)</p>\n"
+    reviews_allowed: true
+    average_rating: "0.00"
+    rating_count: 0
+    related_ids: 
+      - 2925
+      - 2989
+      - 2616
+      - 3882
+      - 3441
+    upsell_ids: []
+    cross_sell_ids: []
+    parent_id: 0
+    categories: 
+      - "-ANALÓGICO"
+      - "Collage"
+    tags: 
+      - "Jordi Pagès"
+    images: 
+      - 
+        id: 3971
+        created_at: "2015-01-16T13:35:02Z"
+        updated_at: "2015-01-16T13:35:02Z"
+        src: "http://www.artinpocket.cat/wp-content/uploads/2015/01/1.-Jordi-Pagés-Collage-Gèrmens-de-furia-perduts.jpg"
+        title: "1. Jordi-Pagés-Collage-Gèrmens-de-furia-perduts"
+        alt: ""
+        position: 0
+    featured_src: "http://www.artinpocket.cat/wp-content/uploads/2015/01/1.-Jordi-Pagés-Collage-Gèrmens-de-furia-perduts.jpg"
+    attributes: []
+    downloads: []
+    download_limit: 0
+    download_expiry: 0
+    download_type: ""
+    purchase_note: ""
+    total_sales: 0
+    variations: []
+    parent: []
+  - 
+    title: "Marcs per l'artista Joan Zuriguel. Jordi Pagès"
+    id: 3968
+    created_at: "2015-01-16T13:29:28Z"
+    updated_at: "2015-01-16T13:36:09Z"
+    type: "simple"
+    status: "publish"
+    downloadable: false
+    virtual: false
+    permalink: "http://www.artinpocket.cat/tienda/marcs-per-lartista-joan-zuriguel-jordi-pages/"
+    sku: "W856"
+    price: "550.00"
+    regular_price: "550.00"
+    sale_price: null
+    price_html: "<span class=\"amount\">550,00&euro;</span>"
+    taxable: true
+    tax_status: "taxable"
+    tax_class: ""
+    managing_stock: true
+    stock_quantity: 1
+    in_stock: true
+    backorders_allowed: false
+    backordered: false
+    sold_individually: true
+    purchaseable: true
+    featured: false
+    visible: true
+    catalog_visibility: "visible"
+    on_sale: false
+    weight: null
+    dimensions: 
+      length: ""
+      width: "40"
+      height: "50"
+      unit: "cm"
+    shipping_required: true
+    shipping_taxable: true
+    shipping_class: "transport"
+    shipping_class_id: 71
+    description: "<p>Sèrie Salvat Papasseit (2014).</p>\n<p>Marcs per l'artista fuster Joan Zuriguel.</p>\n<p>tèncica mixta, acrílic i llapis de cera.</p>\n<p>&nbsp;</p>\n<p><span style=\"line-height: 1.5;\"> </span></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p><span style=\"line-height: 1.5;\"> </span></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n"
+    short_description: "<p>Sèrie Salvat Papasseit (2014).</p>\n"
+    reviews_allowed: true
+    average_rating: "0.00"
+    rating_count: 0
+    related_ids: 
+      - 2486
+      - 2824
+      - 3332
+      - 2610
+      - 2372
+    upsell_ids: []
+    cross_sell_ids: []
+    parent_id: 0
+    categories: 
+      - "-ANALÓGICO"
+      - "Collage"
+    tags: 
+      - "Jordi Pagès"
+    images: 
+      - 
+        id: 3969
+        created_at: "2015-01-16T13:31:23Z"
+        updated_at: "2015-01-16T13:31:23Z"
+        src: "http://www.artinpocket.cat/wp-content/uploads/2015/01/Jordi-Pagès-Collages-sèrie-Salvat-Papasseit-.jpg"
+        title: "Jordi-Pagès-Collage(s)-sèrie-Salvat-Papasseit"
+        alt: ""
+        position: 0
+    featured_src: "http://www.artinpocket.cat/wp-content/uploads/2015/01/Jordi-Pagès-Collages-sèrie-Salvat-Papasseit-.jpg"
+    attributes: []
+    downloads: []
+    download_limit: 0
+    download_expiry: 0
+    download_type: ""
+    purchase_note: ""
+    total_sales: 0
+    variations: []
+    parent: []
+  - 
+    title: "En la silent i closa nit rocosa II. Jordi Pagès"
+    id: 3966
+    created_at: "2015-01-16T13:26:53Z"
+    updated_at: "2015-01-16T13:28:58Z"
+    type: "simple"
+    status: "publish"
+    downloadable: false
+    virtual: false
+    permalink: "http://www.artinpocket.cat/tienda/en-la-silent-i-closa-nit-rocosa-ii-jordi-pages/"
+    sku: "W855"
+    price: "350.00"
+    regular_price: "350.00"
+    sale_price: null
+    price_html: "<span class=\"amount\">350,00&euro;</span>"
+    taxable: true
+    tax_status: "taxable"
+    tax_class: ""
+    managing_stock: true
+    stock_quantity: 1
+    in_stock: true
+    backorders_allowed: false
+    backordered: false
+    sold_individually: true
+    purchaseable: true
+    featured: false
+    visible: true
+    catalog_visibility: "visible"
+    on_sale: false
+    weight: null
+    dimensions: 
+      length: ""
+      width: "40"
+      height: "50"
+      unit: "cm"
+    shipping_required: true
+    shipping_taxable: true
+    shipping_class: "transport"
+    shipping_class_id: 71
+    description: "<p>SÈRIE JOAN VINYOLI (2012)</p>\n<p>Tècnica mitxa llapis d'oli sobre cartroné.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p><span style=\"line-height: 1.5;\"> </span></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n"
+    short_description: "<p>Sèrie a Joan Vinyoli.</p>\n"
+    reviews_allowed: true
+    average_rating: "0.00"
+    rating_count: 0
+    related_ids: 
+      - 3884
+      - 2376
+      - 3948
+      - 2570
+      - 2910
+    upsell_ids: []
+    cross_sell_ids: []
+    parent_id: 0
+    categories: 
+      - "-ANALÓGICO"
+      - "Collage"
+    tags: 
+      - "Jordi Pagès"
+    images: 
+      - 
+        id: 3967
+        created_at: "2015-01-16T13:28:15Z"
+        updated_at: "2015-01-16T13:28:15Z"
+        src: "http://www.artinpocket.cat/wp-content/uploads/2015/01/3.-Jordi-Pagés-Collage-Cap-al-no-res.jpg"
+        title: "3. Jordi-Pagés-Collage-Cap-al-no-res"
+        alt: ""
+        position: 0
+    featured_src: "http://www.artinpocket.cat/wp-content/uploads/2015/01/3.-Jordi-Pagés-Collage-Cap-al-no-res.jpg"
+    attributes: []
+    downloads: []
+    download_limit: 0
+    download_expiry: 0
+    download_type: ""
+    purchase_note: ""
+    total_sales: 0
+    variations: []
+    parent: []
+  - 
+    title: "En la silent i closa nit rocosa. Jordi Pagès"
+    id: 3964
+    created_at: "2015-01-16T13:24:47Z"
+    updated_at: "2015-01-16T13:26:42Z"
+    type: "simple"
+    status: "publish"
+    downloadable: false
+    virtual: false
+    permalink: "http://www.artinpocket.cat/tienda/en-la-silent-i-closa-nit-rocosa-jordi-pages/"
+    sku: "W854"
+    price: "350.00"
+    regular_price: "350.00"
+    sale_price: null
+    price_html: "<span class=\"amount\">350,00&euro;</span>"
+    taxable: true
+    tax_status: "taxable"
+    tax_class: ""
+    managing_stock: true
+    stock_quantity: 1
+    in_stock: true
+    backorders_allowed: false
+    backordered: false
+    sold_individually: true
+    purchaseable: true
+    featured: false
+    visible: true
+    catalog_visibility: "visible"
+    on_sale: false
+    weight: null
+    dimensions: 
+      length: ""
+      width: "40"
+      height: "50"
+      unit: "cm"
+    shipping_required: true
+    shipping_taxable: true
+    shipping_class: "transport"
+    shipping_class_id: 71
+    description: "<p>Sèrie a Joan Vinyoli: Tot és ara o res  (2014)</p>\n<p>EN LA SILENT I CLOSA NIT ROCOSA</p>\n<p>Collage. Acrílic i llapis d'oli.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p><span style=\"line-height: 1.5;\"> </span></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n"
+    short_description: "<p>Sèrie a Joan Vinyoli: Tot és ara o res  (2014)</p>\n"
+    reviews_allowed: true
+    average_rating: "0.00"
+    rating_count: 0
+    related_ids: 
+      - 2780
+      - 2554
+      - 2360
+      - 3944
+      - 2816
+    upsell_ids: []
+    cross_sell_ids: []
+    parent_id: 0
+    categories: 
+      - "-ANALÓGICO"
+      - "Collage"
+    tags: 
+      - "Jordi Pagès"
+    images: 
+      - 
+        id: 3965
+        created_at: "2015-01-16T13:26:16Z"
+        updated_at: "2015-01-16T13:26:16Z"
+        src: "http://www.artinpocket.cat/wp-content/uploads/2015/01/2.-Jordi-Pagés-Collage-En-la-silent-i-la-closa-nit-rocosa.jpg"
+        title: "2. Jordi-Pagés-Collage-En-la-silent-i-la-closa-nit-rocosa"
+        alt: ""
+        position: 0
+    featured_src: "http://www.artinpocket.cat/wp-content/uploads/2015/01/2.-Jordi-Pagés-Collage-En-la-silent-i-la-closa-nit-rocosa.jpg"
+    attributes: []
+    downloads: []
+    download_limit: 0
+    download_expiry: 0
+    download_type: ""
+    purchase_note: ""
+    total_sales: 0
+    variations: []
+    parent: []
+  - 
+    title: "Es poden fer moltes coses. Jordi Pagès"
+    id: 3962
+    created_at: "2015-01-16T13:19:26Z"
+    updated_at: "2015-01-16T13:24:36Z"
+    type: "simple"
+    status: "publish"
+    downloadable: false
+    virtual: false
+    permalink: "http://www.artinpocket.cat/tienda/es-poden-fer-moltes-coses-jordi-pages/"
+    sku: "W853"
+    price: "550.00"
+    regular_price: "550.00"
+    sale_price: null
+    price_html: "<span class=\"amount\">550,00&euro;</span>"
+    taxable: true
+    tax_status: "taxable"
+    tax_class: ""
+    managing_stock: true
+    stock_quantity: 1
+    in_stock: true
+    backorders_allowed: false
+    backordered: false
+    sold_individually: true
+    purchaseable: true
+    featured: false
+    visible: true
+    catalog_visibility: "visible"
+    on_sale: false
+    weight: null
+    dimensions: 
+      length: ""
+      width: "50"
+      height: "70"
+      unit: "cm"
+    shipping_required: true
+    shipping_taxable: true
+    shipping_class: "transport"
+    shipping_class_id: 71
+    description: "<p>Es poden fer moltes coses,</p>\n<p>que no són res, partint d'aquest principi:</p>\n<p>tot és ara i res.</p>\n<p>Joan Vinyoli</p>\n<p>Tècnica mixta, acrílic i llapis d'oli, sobre cartroné.</p>\n<p>&nbsp;</p>\n<p><span style=\"line-height: 1.5;\"> </span></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n"
+    short_description: "<p>Es poden fer moltes coses,</p>\n<p>que no són res, partint d&#8217;aquest principi:</p>\n<p>tot és ara i res.</p>\n<p>Joan Vinyoli</p>\n"
+    reviews_allowed: true
+    average_rating: "0.00"
+    rating_count: 0
+    related_ids: 
+      - 2472
+      - 2868
+      - 2996
+      - 2568
+      - 3354
+    upsell_ids: []
+    cross_sell_ids: []
+    parent_id: 0
+    categories: 
+      - "-ANALÓGICO"
+      - "Collage"
+    tags: 
+      - "Jordi Pagès"
+    images: 
+      - 
+        id: 3963
+        created_at: "2015-01-16T13:23:48Z"
+        updated_at: "2015-01-16T13:23:48Z"
+        src: "http://www.artinpocket.cat/wp-content/uploads/2015/01/1.-Jordi-Pagés-Pintura-Collage-Es-poden-fer-moltes-coses.jpg"
+        title: "1. Jordi-Pagés-Pintura-Collage-Es-poden-fer-moltes-coses"
+        alt: ""
+        position: 0
+    featured_src: "http://www.artinpocket.cat/wp-content/uploads/2015/01/1.-Jordi-Pagés-Pintura-Collage-Es-poden-fer-moltes-coses.jpg"
+    attributes: []
+    downloads: []
+    download_limit: 0
+    download_expiry: 0
+    download_type: ""
+    purchase_note: ""
+    total_sales: 0
+    variations: []
+    parent: []
+  - 
+    title: "Versos de platja N/4. Jordi Pagès"
+    id: 3960
+    created_at: "2015-01-16T13:16:20Z"
+    updated_at: "2015-01-16T13:19:15Z"
+    type: "simple"
+    status: "publish"
+    downloadable: false
+    virtual: false
+    permalink: "http://www.artinpocket.cat/tienda/versos-de-platja-n4-jordi-pages/"
+    sku: "W852"
+    price: "350.00"
+    regular_price: "350.00"
+    sale_price: null
+    price_html: "<span class=\"amount\">350,00&euro;</span>"
+    taxable: true
+    tax_status: "taxable"
+    tax_class: ""
+    managing_stock: true
+    stock_quantity: 1
+    in_stock: true
+    backorders_allowed: false
+    backordered: false
+    sold_individually: true
+    purchaseable: true
+    featured: false
+    visible: true
+    catalog_visibility: "visible"
+    on_sale: false
+    weight: null
+    dimensions: 
+      length: ""
+      width: "40"
+      height: "50"
+      unit: "cm"
+    shipping_required: true
+    shipping_taxable: true
+    shipping_class: "transport"
+    shipping_class_id: 71
+    description: "<p>Sèrie inspirada en poemes de Núria Busquet.</p>\n<p>Tècnica mixta, acrílic i llapis d'oli.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n"
+    short_description: "<p>Sèrie inspirada en poemes de Núria Busquet.</p>\n"
+    reviews_allowed: true
+    average_rating: "0.00"
+    rating_count: 0
+    related_ids: 
+      - 2820
+      - 2394
+      - 3295
+      - 2554
+      - 2809
+    upsell_ids: []
+    cross_sell_ids: []
+    parent_id: 0
+    categories: 
+      - "-ANALÓGICO"
+      - "Collage"
+    tags: 
+      - "Jordi Pagès"
+    images: 
+      - 
+        id: 3961
+        created_at: "2015-01-16T13:18:29Z"
+        updated_at: "2015-01-16T13:18:29Z"
+        src: "http://www.artinpocket.cat/wp-content/uploads/2015/01/9..Jordi-Pagés-Collage-Obrim-el-cos..jpg"
+        title: "9..Jordi-Pagés-Collage-Obrim-el-cos."
+        alt: ""
+        position: 0
+    featured_src: "http://www.artinpocket.cat/wp-content/uploads/2015/01/9..Jordi-Pagés-Collage-Obrim-el-cos..jpg"
+    attributes: []
+    downloads: []
+    download_limit: 0
+    download_expiry: 0
+    download_type: ""
+    purchase_note: ""
+    total_sales: 0
+    variations: []
+    parent: []
+  - 
+    title: "Versos de platja N/3. Jordi Pagès"
+    id: 3958
+    created_at: "2015-01-16T13:14:12Z"
+    updated_at: "2015-01-16T13:15:56Z"
+    type: "simple"
+    status: "publish"
+    downloadable: false
+    virtual: false
+    permalink: "http://www.artinpocket.cat/tienda/versos-de-platja-n3-jordi-pages/"
+    sku: "W851"
+    price: "350.00"
+    regular_price: "350.00"
+    sale_price: null
+    price_html: "<span class=\"amount\">350,00&euro;</span>"
+    taxable: true
+    tax_status: "taxable"
+    tax_class: ""
+    managing_stock: true
+    stock_quantity: 1
+    in_stock: true
+    backorders_allowed: false
+    backordered: false
+    sold_individually: true
+    purchaseable: true
+    featured: false
+    visible: true
+    catalog_visibility: "visible"
+    on_sale: false
+    weight: null
+    dimensions: 
+      length: ""
+      width: "40"
+      height: "50"
+      unit: "cm"
+    shipping_required: true
+    shipping_taxable: true
+    shipping_class: "transport"
+    shipping_class_id: 71
+    description: "<p>Sèrie inspirada en poemes de Núria Busquet.</p>\n<p>Llapis d'oli sobre cartoné.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n"
+    short_description: "<p>Sèrie inspirada en poemes de Núria Busquet.</p>\n"
+    reviews_allowed: true
+    average_rating: "0.00"
+    rating_count: 0
+    related_ids: 
+      - 3848
+      - 2612
+      - 4000
+      - 2745
+      - 3350
+    upsell_ids: []
+    cross_sell_ids: []
+    parent_id: 0
+    categories: 
+      - "-ANALÓGICO"
+      - "Collage"
+    tags: 
+      - "Jordi Pagès"
+    images: 
+      - 
+        id: 3959
+        created_at: "2015-01-16T13:15:47Z"
+        updated_at: "2015-01-16T13:15:47Z"
+        src: "http://www.artinpocket.cat/wp-content/uploads/2015/01/8.Jordi-Pagés-Collage-Versos-de-Platja-2.jpg"
+        title: "8.Jordi-Pagés-Collage- Versos de Platja-2"
+        alt: ""
+        position: 0
+    featured_src: "http://www.artinpocket.cat/wp-content/uploads/2015/01/8.Jordi-Pagés-Collage-Versos-de-Platja-2.jpg"
+    attributes: []
+    downloads: []
+    download_limit: 0
+    download_expiry: 0
+    download_type: ""
+    purchase_note: ""
+    total_sales: 0
+    variations: []
+    parent: []
+  - 
+    title: "Versos de platja N/2. Jordi Pagès"
+    id: 3956
+    created_at: "2015-01-16T09:02:29Z"
+    updated_at: "2015-01-16T09:04:33Z"
+    type: "simple"
+    status: "publish"
+    downloadable: false
+    virtual: false
+    permalink: "http://www.artinpocket.cat/tienda/versos-de-platja-n2-jordi-pages-copiar/"
+    sku: "W850"
+    price: "350.00"
+    regular_price: "350.00"
+    sale_price: null
+    price_html: "<span class=\"amount\">350,00&euro;</span>"
+    taxable: true
+    tax_status: "taxable"
+    tax_class: ""
+    managing_stock: true
+    stock_quantity: 1
+    in_stock: true
+    backorders_allowed: false
+    backordered: false
+    sold_individually: true
+    purchaseable: true
+    featured: false
+    visible: true
+    catalog_visibility: "visible"
+    on_sale: false
+    weight: null
+    dimensions: 
+      length: ""
+      width: "40"
+      height: "50"
+      unit: "cm"
+    shipping_required: true
+    shipping_taxable: true
+    shipping_class: "transport"
+    shipping_class_id: 71
+    description: "<p>Sèrie inspirada en poemes de Núria Busquet.</p>\n<p>Versos de platja.</p>\n<p>Llapis d'oli sobre cartoné.</p>\n<p>&nbsp;</p>\n"
+    short_description: "<p>Sèrie inspirada en poemes de Núria Busquet.</p>\n"
+    reviews_allowed: true
+    average_rating: "0.00"
+    rating_count: 0
+    related_ids: 
+      - 2870
+      - 2342
+      - 2932
+      - 2554
+      - 3754
+    upsell_ids: []
+    cross_sell_ids: []
+    parent_id: 0
+    categories: 
+      - "-ANALÓGICO"
+      - "Collage"
+    tags: 
+      - "Jordi Pagès"
+    images: 
+      - 
+        id: 3957
+        created_at: "2015-01-16T09:04:13Z"
+        updated_at: "2015-01-16T09:04:13Z"
+        src: "http://www.artinpocket.cat/wp-content/uploads/2015/01/7.-Jordi-Pagés-Collage-Versos-de-Platja.jpg"
+        title: "7. Jordi-Pagés-Collage-Versos-de-Platja"
+        alt: ""
+        position: 0
+    featured_src: "http://www.artinpocket.cat/wp-content/uploads/2015/01/7.-Jordi-Pagés-Collage-Versos-de-Platja.jpg"
+    attributes: []
+    downloads: []
+    download_limit: 0
+    download_expiry: 0
+    download_type: ""
+    purchase_note: ""
+    total_sales: 0
+    variations: []
+    parent: []
+  - 
+    title: "De nit omplo el rebost del somni II. Jordi Pagès"
+    id: 3954
+    created_at: "2015-01-16T09:00:35Z"
+    updated_at: "2015-01-16T09:02:17Z"
+    type: "simple"
+    status: "publish"
+    downloadable: false
+    virtual: false
+    permalink: "http://www.artinpocket.cat/tienda/de-nit-omplo-el-rebost-del-somni-ii-jordi-pages/"
+    sku: "W849"
+    price: "550.00"
+    regular_price: "550.00"
+    sale_price: null
+    price_html: "<span class=\"amount\">550,00&euro;</span>"
+    taxable: true
+    tax_status: "taxable"
+    tax_class: ""
+    managing_stock: true
+    stock_quantity: 1
+    in_stock: true
+    backorders_allowed: false
+    backordered: false
+    sold_individually: true
+    purchaseable: true
+    featured: false
+    visible: true
+    catalog_visibility: "visible"
+    on_sale: false
+    weight: null
+    dimensions: 
+      length: ""
+      width: "50"
+      height: "70"
+      unit: "cm"
+    shipping_required: true
+    shipping_taxable: true
+    shipping_class: "transport"
+    shipping_class_id: 71
+    description: "<p>Sèrie inspirada en frases de Núria Pujolàs</p>\n<p>'De nit omplo el rebost del somni'.</p>\n<p>Acrílic i llapis d'oli sobre cartroné.</p>\n<p>&nbsp;</p>\n"
+    short_description: "<p>Sèrie inspirada en frases de Núria Pujolàs.</p>\n"
+    reviews_allowed: true
+    average_rating: "0.00"
+    rating_count: 0
+    related_ids: 
+      - 3911
+      - 2732
+      - 2709
+      - 3883
+      - 2672
+    upsell_ids: []
+    cross_sell_ids: []
+    parent_id: 0
+    categories: 
+      - "-ANALÓGICO"
+      - "Collage"
+    tags: 
+      - "Jordi Pagès"
+    images: 
+      - 
+        id: 3955
+        created_at: "2015-01-16T09:02:05Z"
+        updated_at: "2015-01-16T09:02:05Z"
+        src: "http://www.artinpocket.cat/wp-content/uploads/2015/01/6.Jordi-Pagès-Collage-De-nit-omplo-el-rebost-del-somni.jpg"
+        title: "6.Jordi-Pagès-Collage-De-nit-omplo-el-rebost del-somni"
+        alt: ""
+        position: 0
+    featured_src: "http://www.artinpocket.cat/wp-content/uploads/2015/01/6.Jordi-Pagès-Collage-De-nit-omplo-el-rebost-del-somni.jpg"
+    attributes: []
+    downloads: []
+    download_limit: 0
+    download_expiry: 0
+    download_type: ""
+    purchase_note: ""
+    total_sales: 0
+    variations: []
+    parent: []
+

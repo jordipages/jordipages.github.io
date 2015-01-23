@@ -1,0 +1,26 @@
+{
+  "version": "1.0.0",
+  "name": "#Jordi Pagès",
+  "launch_path": "/index.html",
+  "description": "Jordi Pagès és un artista de Granollers (1951) amb una forta empremta a Cadaqués.",
+  "icons": {
+    "128": "/images/touch/icon-128x128.png"
+  },
+  "developer": {
+    "name": "ramon gil",
+    "url": "http://www.oxygen.cat/"
+  },
+  "installs_allowed_from": [
+    "*"
+  ],
+  "display": "standalone",
+  "default_locale": "ca",
+  "permissions": {
+  },
+  "locales": {
+    "ca": {
+      "name": "#Jordi Pagès",
+      "description": "Jordi Pagès és un artista de Granollers (1951) amb una forta empremta a Cadaqués."
+    }
+  }
+}

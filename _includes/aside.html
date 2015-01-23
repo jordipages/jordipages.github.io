@@ -1,0 +1,11 @@
+<!-- Aside -->
+<aside>
+  <div class="container">
+  {% assign sale_date = site.time | date_to_xmlschema %}
+    <p><small>Les imatges de fons són adaptacions de les següents obres: 
+  {% for angel in site.data.angels %}
+    <strong>{{ angel.title }}</strong> | {% if angel.downloadable == true %} digital art{% else if %} dimensions: {{ angel.dimensions.length }}x{{ angel.dimensions.height }} {{ angel.dimensions.unit }}{% endif %}. Si ho desitges pots comprar-la: <a href="{{ angel.permalink }}">¡{% if sale_date > site.sale-end %}{{ angel.regular_price }}{% else if %}{{ angel.price_html }}{% endif %}! <i class="fa fa-credit-card"></i></a>. 
+  {% endfor %}
+    </small></p>
+  </div>
+</aside>

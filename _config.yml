@@ -1,0 +1,54 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+
+excerpt_separator: <!--more-->
+
+# Permalinks
+permalink:        pretty
+
+# Site settings
+title: '#Jordi Pagès'
+email: rgil@oxygen.cat
+description: 'Jordi Pagès és un artista de Granollers (1951) amb una forta empremta a Cadaqués.'
+baseurl:
+url: "https://jordipages.github.io" 
+twitter_username: freecates
+github_username:  freecates
+twitter:          artinpocket
+
+sass:
+ style: compressed
+
+author:
+  name:           'Ramon Gil'
+  url:            https://twitter.com/freecates
+
+# Build settings
+markdown: kramdown
+
+#Custom vars
+portfoli-author:
+ name: "#Jordi Pagès"
+ url: http://www.jordipages.cat/
+organitza:
+  artinpocket:
+    description:  "Artinpocket - organitzadors d'#Jordi Pagès"
+    logo: "artinpocket-organitzadors-barcelona-digital-art-footer.jpg"
+    url: http://www.artinpocket.cat/
+  sidpublicitat:
+    description:  "SidPublicitat - organitzadores d'#Jordi Pagès"
+    logo: "sid-publicitat-organitzadors-jordi-pages.jpg"
+    url: http://www.sidpublicitat.com/
+
+colabora:
+  oxygen:
+    description:  "Oxygen - Partner tecnològic d'#Jordi Pagès"
+    logo: "oxygen-organitzadors-barcelona-digital-art-footer.jpg"
+    url:  http://www.oxygen.cat/
+
+sale-end: '2014-12-31T00:00:00+01:00'
+
+bower_components: 
+  baseurl: /bower_components/

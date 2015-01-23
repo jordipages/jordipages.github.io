@@ -1,0 +1,90 @@
+{% for ferraterobrajordipage in site.data.obres.ferraterobrajordipages %}
+    <div class="portfolio-modal modal fade" id="portfolioModal-{{ ferraterobrajordipage.id }}" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content content-section text-center purple-bg__full">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+              <div class="modal-body">
+                  <h1>{{ ferraterobrajordipage.title }}</h1>
+                  <figure>
+                    <div class="padding-artwork-container">
+                      <div class="embed-container embed-container_{{ ferraterobrajordipage.aspect_ratio }}">
+                        <core-image sizing="cover" class="core-image-size" preload fade src="{{ ferraterobrajordipage.featured_src }}"></core-image> 
+                      </div>
+                    </div>
+                    <figcaption>
+                      <p><small><strong>{{ ferraterobrajordipage.title }}</strong> | {% if ferraterobrajordipage.downloadable == true %} digital art{% else if %} dimensions: {{ ferraterobrajordipage.dimensions.length }}x{{ ferraterobrajordipage.dimensions.height }} {{ ferraterobrajordipage.dimensions.unit }}{% endif %}</small></p>
+                      <p><a href="{{ ferraterobrajordipage.permalink }}" class="btn btn-default btn-lg">¡{% if sale_date > site.sale-end %}{{ ferraterobrajordipage.regular_price }}{% else if %}{{ ferraterobrajordipage.price_html }}{% endif %}! ¡comprar! <i class="fa fa-credit-card"></i></a></p>
+                    </figcaption>
+                  </figure>
+                  {{ ferraterobrajordipage.description }}
+                  <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Tancar</button>
+              </div>
+            </div>
+        </div>
+    </div>
+{% endfor %}
+{% for vinyoliobrajordipage in site.data.obres.vinyoliobrajordipages %}
+    <div class="portfolio-modal modal fade" id="portfolioModal-{{ vinyoliobrajordipage.id }}" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content content-section text-center purple-bg__full">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+              <div class="modal-body">
+                  <h1>{{ vinyoliobrajordipage.title }}</h1>
+                  <figure>
+                    <div class="padding-artwork-container">
+                      <div class="embed-container embed-container_{{ vinyoliobrajordipage.aspect_ratio }}">
+                        <core-image sizing="cover" class="core-image-size" preload fade src="{{ vinyoliobrajordipage.featured_src }}"></core-image> 
+                      </div>
+                    </div>
+                    <figcaption>
+                      <p><small><strong>{{ vinyoliobrajordipage.title }}</strong> | {% if vinyoliobrajordipage.downloadable == true %} digital art{% else if %} dimensions: {{ vinyoliobrajordipage.dimensions.length }}x{{ vinyoliobrajordipage.dimensions.height }} {{ vinyoliobrajordipage.dimensions.unit }}{% endif %}</small></p>
+                      <p><a href="{{ vinyoliobrajordipage.permalink }}" class="btn btn-default btn-lg">¡{% if sale_date > site.sale-end %}{{ vinyoliobrajordipage.regular_price }}{% else if %}{{ vinyoliobrajordipage.price_html }}{% endif %}! ¡comprar! <i class="fa fa-credit-card"></i></a></p>
+                    </figcaption>
+                  </figure>
+                  {{ vinyoliobrajordipage.description }}
+                  <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Tancar</button>
+              </div>
+            </div>
+        </div>
+    </div>
+{% endfor %}
+{% for busquetobrajordipage in site.data.obres.busquetobrajordipages %}
+    <div class="portfolio-modal modal fade" id="portfolioModal-{{ busquetobrajordipage.id }}" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content content-section text-center purple-bg__full">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+              <div class="modal-body">
+                  <h1>{{ busquetobrajordipage.title }}</h1>
+                  <figure>
+                    <div class="padding-artwork-container">
+                      <div class="embed-container embed-container_{{ busquetobrajordipage.aspect_ratio }}">
+                        <core-image sizing="cover" class="core-image-size" preload fade src="{{ busquetobrajordipage.featured_src }}"></core-image> 
+                      </div>
+                    </div>
+                    <figcaption>
+                      <p><small><strong>{{ busquetobrajordipage.title }}</strong> | {% if busquetobrajordipage.downloadable == true %} digital art{% else if %} dimensions: {{ busquetobrajordipage.dimensions.length }}x{{ busquetobrajordipage.dimensions.height }} {{ busquetobrajordipage.dimensions.unit }}{% endif %}</small></p>
+                      <p><a href="{{ busquetobrajordipage.permalink }}" class="btn btn-default btn-lg">¡{% if sale_date > site.sale-end %}{{ busquetobrajordipage.regular_price }}{% else if %}{{ busquetobrajordipage.price_html }}{% endif %}! ¡comprar! <i class="fa fa-credit-card"></i></a></p>
+                    </figcaption>
+                  </figure>
+                  {{ busquetobrajordipage.description }}
+                  <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Tancar</button>
+              </div>
+            </div>
+        </div>
+    </div>
+{% endfor %}

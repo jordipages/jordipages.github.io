@@ -1,0 +1,31 @@
+---
+layout: default-post
+---
+
+<div itemscope itemtype="http://schema.org/Article" class="post">
+  <h1 itemprop="name" class="post-title">{{ page.title }}</h1>
+  <p class="post-date"><span itemprop="datePublished" content="{{ page.date }}">{{ page.date | date_to_string }}</span> | <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ site.portfoli-author.name }}</span></span></p>
+  <span itemprop="articleBody">{{ content }}</span>
+  {% if page.share %}<div class="social-share">
+          <ul class="socialcount socialcount-small inline-list">
+            <li class="facebook"><a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url }}" title="Share on Facebook"><span class="count"><i class="fa fa-facebook"></i> Like</span></a></li>
+            <li class="twitter"><a href="https://twitter.com/intent/tweet?text={{ site.url }}{{ page.url }}" title="Share on Twitter"><span class="count"><i class="fa fa-twitter"></i> Tweet</span></a></li>
+            <li class="googleplus"><a href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}" title="Share on Google Plus"><span class="count"><i class="fa fa-google-plus"></i> +1</span></a></li>
+          </ul>
+        </div>{% endif %}
+</div>
+
+<div class="related">
+  <h2>Altres treballs d'<span class="light">Jordi</span>Pagès</h2>
+  <ul class="related-posts">
+    {% for post in site.related_posts limit:3 %}
+      <li>
+        <h3>
+          <a href="{{ post.url }}">
+            {{ post.title }}
+          </a>
+        </h3>
+      </li>
+    {% endfor %}
+  </ul>
+</div>

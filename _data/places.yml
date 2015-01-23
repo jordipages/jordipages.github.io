@@ -1,0 +1,20 @@
+- name:	Artinpocket
+  address:	'Carrer Tres Creus, 236, 08203 Sabadell, Barcelona'
+  url:	http://www.artinpocket.cat/
+  twitter:	Artinpocket
+  facebook:	https://www.facebook.com/artinpocket.digital.art
+  phone: '0034937486090'
+  email: info@artinpocket.cat
+  latitude:	41.5461366
+  longitude:	2.1169508
+  id: 1
+- name:	Jordi Pagès
+  address:	'Carrer Pous i Pagès, 10, 17600 Figueres, Girona'
+  url:	https://jordipages.github.io/
+  twitter:	
+  facebook:	
+  phone: '0034937486090'
+  email: info@Jordi Pagès.com
+  latitude: 42.2556224
+  longitude: 2.9675415
+  id: 2
