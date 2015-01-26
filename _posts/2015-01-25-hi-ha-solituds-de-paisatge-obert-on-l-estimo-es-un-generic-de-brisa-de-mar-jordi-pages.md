@@ -2,16 +2,16 @@
 layout: post
 og: true
 og-type: product
-title: "Es poden fer moltes coses. Jordi Pagès" 
+title: "\''Hi ha solituds//de paisatge obert//on l'estimo//és un genèric de brisa de mar\''. Jordi Pagès" 
 share: true
 class: artwork
 categories:
-  - vinyoli
+  - busquet
 published: true
-work: 3962
+work: 3946
 ---
 
-{% assign work_data = site.data.obres.vinyoliobrajordipages | where:"id", page.work %}
+{% assign work_data = site.data.obres.busquetobrajordipages | where:"id", page.work %}
 {% assign work = work_data | first %}
 <figure>
   <div class="padding-artwork-container">

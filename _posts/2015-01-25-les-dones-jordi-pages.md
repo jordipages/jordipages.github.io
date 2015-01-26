@@ -13,7 +13,6 @@ work: 3972
 
 {% assign work_data = site.data.obres.ferraterobrajordipages | where:"id", page.work %}
 {% assign work = work_data | first %}
-<h1>{{ work.title }}</h1>
 <figure>
   <div class="padding-artwork-container">
     <div class="embed-container embed-container_{{ work.aspect_ratio }}">
@@ -25,5 +24,5 @@ work: 3972
     <p><a href="{{ work.permalink }}" class="btn btn-default btn-lg">¡{% if sale_date > site.sale-end %}{{ work.regular_price }}{% else if %}{{ work.price_html }}{% endif %}! ¡comprar! <i class="fa fa-credit-card"></i></a></p>
   </figcaption>
 </figure>
+<!--more-->
 {{ work.description }}
-<button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Tancar</button>

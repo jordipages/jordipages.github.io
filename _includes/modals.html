@@ -9,25 +9,27 @@
             </div>
             <div class="container">
               <div class="modal-body">
-              <hr />
-              <p class="text-center"><small><i class="fa fa-heart"></i> Gaudeix <a href="https://twitter.com/search?q=%23jordipages&src=typd&f=realtime">#jordipages</a></small></p>
-              <hr />
-                  {{ post.content }}
-              <hr />
-              <p class="text-center"><small><i class="fa fa-heart"></i> Gaudeix <a href="https://twitter.com/search?q=%23jordipages&src=typd&f=realtime">#jordipages</a></small></p>
-              <hr />
-              <div class="social-share">
-              <ul class="socialcount socialcount-small inline-list">
-                <li class="facebook"><a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ post.url }}" title="Share on Facebook"><span class="count"><i class="fa fa-facebook"></i> Like</span></a></li>
-                {% if page.category == 'place' or page.category == 'patrocinadors' %}
-                <li class="twitter"><a href="https://twitter.com/intent/tweet?text={{page.title | replace:"'","\'" | uri_escape}}%20%E2%80%94%20{{page.category | replace:"'","\'" | uri_escape}}%20{{site.twitter-sentence | replace:"'","\'" | uri_escape}}&url={{ site.url }}{{post.url | replace:"'","\'" | uri_escape}}&counturl={{ site.url }}{{post.url | replace:"'","\'" | uri_escape}}" title="Share on Twitter"><span class="count"><i class="fa fa-twitter"></i> Tweet</span></a></li>
-                {% else if %}
-                <li class="twitter"><a href="https://twitter.com/intent/tweet?text={{page.title}}%20{{site.twitter-sentence | replace:"'","\'" | uri_escape}}&url={{ site.url }}{{post.url | replace:"'","\'" | uri_escape}}&via=artinpocket" title="Share on Twitter"><span class="count"><i class="fa fa-twitter"></i> Tweet</span></a></li>
-                {% endif %}
-                <li class="googleplus"><a href="https://plus.google.com/share?url={{ site.url }}{{ post.url }}" title="Share on Google Plus"><span class="count"><i class="fa fa-google-plus"></i> +1</span></a></li>
-              </ul>
-            </div>
+                <hr />
+                <p class="text-center"><small><i class="fa fa-heart"></i> Gaudeix <a href="https://twitter.com/search?q=%23jordipages&src=typd&f=realtime">#jordipages</a></small></p>
+                <hr />
+                <h1>{{ post.title }}</h1>
+                    {{ post.content }}
+                <hr />
+                <p class="text-center"><small><i class="fa fa-heart"></i> Gaudeix <a href="https://twitter.com/search?q=%23jordipages&src=typd&f=realtime">#jordipages</a></small></p>
+                <hr />
+                <div class="social-share">
+                  <ul class="socialcount socialcount-small inline-list">
+                    <li class="facebook"><a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ post.url }}" title="Share on Facebook"><span class="count"><i class="fa fa-facebook"></i> Like</span></a></li>
+                    {% if page.category == 'place' or page.category == 'patrocinadors' %}
+                    <li class="twitter"><a href="https://twitter.com/intent/tweet?text={{page.title | replace:"'","\'" | uri_escape}}%20%E2%80%94%20{{page.category | replace:"'","\'" | uri_escape}}%20{{site.twitter-sentence | replace:"'","\'" | uri_escape}}&url={{ site.url }}{{post.url | replace:"'","\'" | uri_escape}}&counturl={{ site.url }}{{post.url | replace:"'","\'" | uri_escape}}" title="Share on Twitter"><span class="count"><i class="fa fa-twitter"></i> Tweet</span></a></li>
+                    {% else if %}
+                    <li class="twitter"><a href="https://twitter.com/intent/tweet?text={{page.title}}%20{{site.twitter-sentence | replace:"'","\'" | uri_escape}}&url={{ site.url }}{{post.url | replace:"'","\'" | uri_escape}}&via=artinpocket" title="Share on Twitter"><span class="count"><i class="fa fa-twitter"></i> Tweet</span></a></li>
+                    {% endif %}
+                    <li class="googleplus"><a href="https://plus.google.com/share?url={{ site.url }}{{ post.url }}" title="Share on Google Plus"><span class="count"><i class="fa fa-google-plus"></i> +1</span></a></li>
+                  </ul>
+                </div>
               </div>
+              <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Tancar</button>
             </div>
         </div>
     </div>
@@ -43,31 +45,33 @@
             </div>
             <div class="container">
               <div class="modal-body">
-              <hr />
-              <p class="text-center"><small><i class="fa fa-heart"></i> Gaudeix <a href="https://twitter.com/search?q=%23jordipages&src=typd&f=realtime">#jordipages</a></small></p>
-              <hr />
-                  {{ post.content }}
-              <hr />
-              <p class="text-center"><small><i class="fa fa-heart"></i> Gaudeix <a href="https://twitter.com/search?q=%23jordipages&src=typd&f=realtime">#jordipages</a></small></p>
-              <hr />
-              <div class="social-share">
-              <ul class="socialcount socialcount-small inline-list">
-                <li class="facebook"><a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ post.url }}" title="Share on Facebook"><span class="count"><i class="fa fa-facebook"></i> Like</span></a></li>
-                {% if page.category == 'place' or page.category == 'patrocinadors' %}
-                <li class="twitter"><a href="https://twitter.com/intent/tweet?text={{page.title | replace:"'","\'" | uri_escape}}%20%E2%80%94%20{{page.category | replace:"'","\'" | uri_escape}}%20{{site.twitter-sentence | replace:"'","\'" | uri_escape}}&url={{ site.url }}{{post.url | replace:"'","\'" | uri_escape}}&counturl={{ site.url }}{{post.url | replace:"'","\'" | uri_escape}}" title="Share on Twitter"><span class="count"><i class="fa fa-twitter"></i> Tweet</span></a></li>
-                {% else if %}
-                <li class="twitter"><a href="https://twitter.com/intent/tweet?text={{page.title}}%20{{site.twitter-sentence | replace:"'","\'" | uri_escape}}&url={{ site.url }}{{post.url | replace:"'","\'" | uri_escape}}&via=artinpocket" title="Share on Twitter"><span class="count"><i class="fa fa-twitter"></i> Tweet</span></a></li>
-                {% endif %}
-                <li class="googleplus"><a href="https://plus.google.com/share?url={{ site.url }}{{ post.url }}" title="Share on Google Plus"><span class="count"><i class="fa fa-google-plus"></i> +1</span></a></li>
-              </ul>
-            </div>
+                <hr />
+                <p class="text-center"><small><i class="fa fa-heart"></i> Gaudeix <a href="https://twitter.com/search?q=%23jordipages&src=typd&f=realtime">#jordipages</a></small></p>
+                <hr />
+                <h1>{{ post.title }}</h1>
+                    {{ post.content }}
+                <hr />
+                <p class="text-center"><small><i class="fa fa-heart"></i> Gaudeix <a href="https://twitter.com/search?q=%23jordipages&src=typd&f=realtime">#jordipages</a></small></p>
+                <hr />
+                <div class="social-share">
+                  <ul class="socialcount socialcount-small inline-list">
+                    <li class="facebook"><a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ post.url }}" title="Share on Facebook"><span class="count"><i class="fa fa-facebook"></i> Like</span></a></li>
+                    {% if page.category == 'place' or page.category == 'patrocinadors' %}
+                    <li class="twitter"><a href="https://twitter.com/intent/tweet?text={{page.title | replace:"'","\'" | uri_escape}}%20%E2%80%94%20{{page.category | replace:"'","\'" | uri_escape}}%20{{site.twitter-sentence | replace:"'","\'" | uri_escape}}&url={{ site.url }}{{post.url | replace:"'","\'" | uri_escape}}&counturl={{ site.url }}{{post.url | replace:"'","\'" | uri_escape}}" title="Share on Twitter"><span class="count"><i class="fa fa-twitter"></i> Tweet</span></a></li>
+                    {% else if %}
+                    <li class="twitter"><a href="https://twitter.com/intent/tweet?text={{page.title}}%20{{site.twitter-sentence | replace:"'","\'" | uri_escape}}&url={{ site.url }}{{post.url | replace:"'","\'" | uri_escape}}&via=artinpocket" title="Share on Twitter"><span class="count"><i class="fa fa-twitter"></i> Tweet</span></a></li>
+                    {% endif %}
+                    <li class="googleplus"><a href="https://plus.google.com/share?url={{ site.url }}{{ post.url }}" title="Share on Google Plus"><span class="count"><i class="fa fa-google-plus"></i> +1</span></a></li>
+                  </ul>
+                </div>
               </div>
+              <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Tancar</button>
             </div>
         </div>
     </div>
 {% endfor %}
-{% for busquetobrajordipage in site.data.obres.busquetobrajordipages %}
-    <div class="portfolio-modal modal fade" id="portfolioModal-{{ busquetobrajordipage.id }}" tabindex="-1" role="dialog" aria-hidden="true">
+{% for post in site.categories['busquet'] %}
+    <div class="portfolio-modal modal fade" id="portfolioModal-{{ post.work }}" tabindex="-1" role="dialog" aria-hidden="true">
         <div class="modal-content content-section text-center purple-bg__full">
             <div class="close-modal" data-dismiss="modal">
                 <div class="lr">
@@ -77,21 +81,27 @@
             </div>
             <div class="container">
               <div class="modal-body">
-                  <h1>{{ busquetobrajordipage.title }}</h1>
-                  <figure>
-                    <div class="padding-artwork-container">
-                      <div class="embed-container embed-container_{{ busquetobrajordipage.aspect_ratio }}">
-                        <core-image sizing="cover" class="core-image-size" preload fade src="{{ busquetobrajordipage.featured_src }}"></core-image> 
-                      </div>
-                    </div>
-                    <figcaption>
-                      <p><small><strong>{{ busquetobrajordipage.title }}</strong> | {% if busquetobrajordipage.downloadable == true %} digital art{% else if %} dimensions: {{ busquetobrajordipage.dimensions.length }}x{{ busquetobrajordipage.dimensions.height }} {{ busquetobrajordipage.dimensions.unit }}{% endif %}</small></p>
-                      <p><a href="{{ busquetobrajordipage.permalink }}" class="btn btn-default btn-lg">¡{% if sale_date > site.sale-end %}{{ busquetobrajordipage.regular_price }}{% else if %}{{ busquetobrajordipage.price_html }}{% endif %}! ¡comprar! <i class="fa fa-credit-card"></i></a></p>
-                    </figcaption>
-                  </figure>
-                  {{ busquetobrajordipage.description }}
-                  <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Tancar</button>
+                <hr />
+                <p class="text-center"><small><i class="fa fa-heart"></i> Gaudeix <a href="https://twitter.com/search?q=%23jordipages&src=typd&f=realtime">#jordipages</a></small></p>
+                <hr />
+                <h1>{{ post.title }}</h1>
+                    {{ post.content }}
+                <hr />
+                <p class="text-center"><small><i class="fa fa-heart"></i> Gaudeix <a href="https://twitter.com/search?q=%23jordipages&src=typd&f=realtime">#jordipages</a></small></p>
+                <hr />
+                <div class="social-share">
+                  <ul class="socialcount socialcount-small inline-list">
+                    <li class="facebook"><a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ post.url }}" title="Share on Facebook"><span class="count"><i class="fa fa-facebook"></i> Like</span></a></li>
+                    {% if page.category == 'place' or page.category == 'patrocinadors' %}
+                    <li class="twitter"><a href="https://twitter.com/intent/tweet?text={{page.title | replace:"'","\'" | uri_escape}}%20%E2%80%94%20{{page.category | replace:"'","\'" | uri_escape}}%20{{site.twitter-sentence | replace:"'","\'" | uri_escape}}&url={{ site.url }}{{post.url | replace:"'","\'" | uri_escape}}&counturl={{ site.url }}{{post.url | replace:"'","\'" | uri_escape}}" title="Share on Twitter"><span class="count"><i class="fa fa-twitter"></i> Tweet</span></a></li>
+                    {% else if %}
+                    <li class="twitter"><a href="https://twitter.com/intent/tweet?text={{page.title}}%20{{site.twitter-sentence | replace:"'","\'" | uri_escape}}&url={{ site.url }}{{post.url | replace:"'","\'" | uri_escape}}&via=artinpocket" title="Share on Twitter"><span class="count"><i class="fa fa-twitter"></i> Tweet</span></a></li>
+                    {% endif %}
+                    <li class="googleplus"><a href="https://plus.google.com/share?url={{ site.url }}{{ post.url }}" title="Share on Google Plus"><span class="count"><i class="fa fa-google-plus"></i> +1</span></a></li>
+                  </ul>
+                </div>
               </div>
+              <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Tancar</button>
             </div>
         </div>
     </div>
