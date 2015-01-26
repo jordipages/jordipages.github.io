@@ -39,7 +39,7 @@
     shipping_taxable: true
     shipping_class: "transport"
     shipping_class_id: 71
-    description: "<p>SÈRIE JOAN VINYOLI (2012)</p>\n<p>Tècnica mitxa llapis d'oli sobre cartroné.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p><span style=\"line-height: 1.5;\"> </span></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n"
+    description: "<p>SÈRIE JOAN VINYOLI (2012)</p>\n<p>Tècnica mitxa llapis d'oli sobre cartroné.</p>\n"
     short_description: "<p>Sèrie a Joan Vinyoli.</p>\n"
     reviews_allowed: true
     average_rating: "0.00"
@@ -117,7 +117,7 @@
     shipping_taxable: true
     shipping_class: "transport"
     shipping_class_id: 71
-    description: "<p>Sèrie a Joan Vinyoli: Tot és ara o res  (2014)</p>\n<p>EN LA SILENT I CLOSA NIT ROCOSA</p>\n<p>Collage. Acrílic i llapis d'oli.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p><span style=\"line-height: 1.5;\"> </span></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n"
+    description: "<p>Sèrie a Joan Vinyoli: Tot és ara o res  (2014)</p>\n<p>EN LA SILENT I CLOSA NIT ROCOSA</p>\n<p>Collage. Acrílic i llapis d'oli.</p>\n"
     short_description: "<p>Sèrie a Joan Vinyoli: Tot és ara o res  (2014)</p>\n"
     reviews_allowed: true
     average_rating: "0.00"
@@ -195,7 +195,7 @@
     shipping_taxable: true
     shipping_class: "transport"
     shipping_class_id: 71
-    description: "<p>Es poden fer moltes coses,</p>\n<p>que no són res, partint d'aquest principi:</p>\n<p>tot és ara i res.</p>\n<p>Joan Vinyoli</p>\n<p>Tècnica mixta, acrílic i llapis d'oli, sobre cartroné.</p>\n<p>&nbsp;</p>\n<p><span style=\"line-height: 1.5;\"> </span></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n"
+    description: "<p>Es poden fer moltes coses,</p>\n<p>que no són res, partint d'aquest principi:</p>\n<p>tot és ara i res.</p>\n<p>Joan Vinyoli</p>\n<p>Tècnica mixta, acrílic i llapis d'oli, sobre cartroné.</p>\n"
     short_description: "<p>Es poden fer moltes coses,</p>\n<p>que no són res, partint d&#8217;aquest principi:</p>\n<p>tot és ara i res.</p>\n<p>Joan Vinyoli</p>\n"
     reviews_allowed: true
     average_rating: "0.00"

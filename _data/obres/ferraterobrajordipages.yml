@@ -117,7 +117,7 @@
     shipping_taxable: true
     shipping_class: "transport"
     shipping_class_id: 71
-    description: "<p>Sèrie Gabriel Ferrater .</p>\n<p>Architettura.</p>\n<p>Llapis d'oli sobre cartroné.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p><span style=\"line-height: 1.5;\"> </span></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p><span style=\"line-height: 1.5;\"> </span></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n"
+    description: "<p>Sèrie Gabriel Ferrater .</p>\n<p>Architettura.</p>\n<p>Llapis d'oli sobre cartroné.</p>\n"
     short_description: "<p>Sèrie Gabriel Ferrater (2012).</p>\n"
     reviews_allowed: true
     average_rating: "0.00"
@@ -195,7 +195,7 @@
     shipping_taxable: true
     shipping_class: "transport"
     shipping_class_id: 71
-    description: "<p>Sèrie Gabriel Ferrater (2012).</p>\n<p>Les dones.</p>\n<p>Acrílic amb llapis d'oli.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p><span style=\"line-height: 1.5;\"> </span></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p><span style=\"line-height: 1.5;\"> </span></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n"
+    description: "<p>Sèrie Gabriel Ferrater (2012).</p>\n<p>Les dones.</p>\n<p>Acrílic amb llapis d'oli.</p>\n"
     short_description: "<p>Sèrie Gabriel Ferrater (2012).</p>\n"
     reviews_allowed: true
     average_rating: "0.00"
