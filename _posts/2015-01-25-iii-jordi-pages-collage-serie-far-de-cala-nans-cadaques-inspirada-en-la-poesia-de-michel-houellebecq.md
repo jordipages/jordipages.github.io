@@ -2,16 +2,16 @@
 layout: post
 og: true
 og-type: product
-title: "Versos de platja N/1. Jordi Pagès" 
+title: "3. JORDI PAGÈS Collage(s) sèrie Far de Cala Nans Cadaqués inspirada en la poesia de Michel Houellebecq" 
 share: true
 class: artwork
 categories:
-  - busquet
+  - farcalanans
 published: true
-work: 3944
+work: 3
 ---
 
-{% assign work_data = site.data.obres.busquetobrajordipages | where:"id", page.work %}
+{% assign work_data = site.data.obres.farcalanansobrajordipages | where:"id", page.work %}
 {% assign work = work_data | first %}
 <figure>
   <div class="padding-artwork-container">
@@ -21,7 +21,6 @@ work: 3944
   </div>
   <figcaption>
     <p><small><strong>{{ work.title }}</strong> | {% if work.downloadable == true %} digital art{% else if %} dimensions: {{ work.dimensions.length }}x{{ work.dimensions.height }} {{ work.dimensions.unit }}{% endif %}</small></p>
-    <p><a href="{{ work.permalink }}" class="btn btn-default btn-lg">¡{% if sale_date > site.sale-end %}{{ work.regular_price }}{% else if %}{{ work.price_html }}{% endif %}! ¡comprar! <i class="fa fa-credit-card"></i></a></p>
   </figcaption>
 </figure>
 <!--more-->

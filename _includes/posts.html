@@ -1,7 +1,7 @@
     <!-- Filosofia Section -->
     <section id="portfoli" class="content-section text-center no-padding">
         <div class="portfoli-section portfoli-section-gabriel-ferrater">
-            <div class="yellow-bg">
+            <div class="purple-bg">
                 <div class="container">
                   <h2>Obra de <span class="light">Jordi</span>Pagès</h2>
                   <h3>Sèrie Gabriel Ferrater</h3>
@@ -65,7 +65,7 @@
               </div>
           </div>
           <div class="portfoli-section portfoli-section-busquet-pujolas">
-            <div class="yellow-bg">
+            <div class="purple-bg">
                 <div class="container">
                   <h3>Serie inspirada en poemes de Núria Busquet i frases de Núria Pujolàs</h3>
                   <blockquote>
@@ -101,9 +101,9 @@
                   <h3>Poetes<span class="light">f</span>erits</h3>
                   <p>En principi POETESfERITS podia semblar una colla de gent que atrapada en un ascensor, s’ha de traslladar a la cabina dels germans Marx. La cabina és insuficient i la cosa acaba en una exhibició de salts “bomba”. En aigua dolça o salada, les ones provocades han anat lluny i han esquitxat.</p>
                   <div class="row">    
-                      {% for portfoli in site.data.portfoli %}
+                      {% for poetesferitsobrajordipage in site.data.obres.poetesferitsobrajordipages %}
                           <div class="col-sm-4 portfolio-item">
-                              <a href="#portfolioModal-{{ portfoli.id }}" class="portfolio-link" data-toggle="modal">
+                              <a href="#portfolioModal-{{ poetesferitsobrajordipage.id }}" class="portfolio-link" data-toggle="modal">
                                   <div class="caption">
                                       <div class="caption-content">
                                           <i class="fa fa-search-plus fa-3x"></i>
@@ -111,7 +111,7 @@
                                   </div>
                                   <figure class="no-margin">
                                     <div class="padding-artwork-container">
-                                      <img src="/images/{{ portfoli.featured-img }}" alt="{{ portfoli.short-description }}">
+                                      <img src="{{ poetesferitsobrajordipage.featured_src }}" alt="{{ poetesferitsobrajordipage.short_description }}">
                                     </div>
                                 </figure>
                               </a>
@@ -122,14 +122,18 @@
             </div>
         </div>
           <div class="portfoli-section portfoli-section-cala-nans">
-            <div class="yellow-bg">
+            <div class="purple-bg">
                 <div class="container">
                   <h3>Exposició Serie Far de Cala Nans-poesia de Michel Houellebeq</h3>
                   <p>13 quadres 50x50. Collage/Tècnica mixta, llapis d'oli i acrílic. Impressió fotografies a Tinta Invisible edicions, imprés amb estampa digital glicée amb tintes pigmentades Ultrachrome, damunt paper Hahnemühle photo Rag de 308 g.</p>
+                  <p>MICHEL HOUELLEBECQ Non réconcilié Anthologie personelle 1991-2013<br/>
+                  Poésie/Gallimard 2014</p>
+                  <p>MICHEL HOUELLEBECQ Poesía Edición bilingüe<br/>
+                  Editorial Anagrama 2012</p>
                   <div class="row">    
-                      {% for portfoli in site.data.portfoli %}
+                      {% for farcalanansobrajordipage in site.data.obres.farcalanansobrajordipages %}
                           <div class="col-sm-4 portfolio-item">
-                              <a href="#portfolioModal-{{ portfoli.id }}" class="portfolio-link" data-toggle="modal">
+                              <a href="#portfolioModal-{{ farcalanansobrajordipage.id }}" class="portfolio-link" data-toggle="modal">
                                   <div class="caption">
                                       <div class="caption-content">
                                           <i class="fa fa-search-plus fa-3x"></i>
@@ -137,7 +141,7 @@
                                   </div>
                                   <figure class="no-margin">
                                     <div class="padding-artwork-container">
-                                      <img src="/images/{{ portfoli.featured-img }}" alt="{{ portfoli.short-description }}">
+                                      <img src="{{ farcalanansobrajordipage.featured_src }}" alt="{{ farcalanansobrajordipage.short_description }}">
                                     </div>
                                 </figure>
                               </a>

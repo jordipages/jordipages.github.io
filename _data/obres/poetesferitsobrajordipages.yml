@@ -1,0 +1,314 @@
+---
+  - 
+    title: "Sense Títol III. Sèrie POETESfERITS. Jordi Pagès"
+    id: 4042
+    aspect_ratio: "3-4"
+    created_at: "2015-01-26T14:26:09Z"
+    updated_at: "2015-01-26T14:27:52Z"
+    type: "simple"
+    status: "publish"
+    downloadable: false
+    virtual: false
+    permalink: "http://www.artinpocket.cat/tienda/sense-titol-iii-serie-poetesferits-jordi-pages/"
+    sku: "W886"
+    price: "350.00"
+    regular_price: "350.00"
+    sale_price: null
+    price_html: "<span class=\"amount\">350,00&euro;</span>"
+    taxable: true
+    tax_status: "taxable"
+    tax_class: ""
+    managing_stock: true
+    stock_quantity: 1
+    in_stock: true
+    backorders_allowed: false
+    backordered: false
+    sold_individually: true
+    purchaseable: true
+    featured: false
+    visible: true
+    catalog_visibility: "visible"
+    on_sale: false
+    weight: null
+    dimensions: 
+      length: ""
+      width: "40"
+      height: "50"
+      unit: "cm"
+    shipping_required: true
+    shipping_taxable: true
+    shipping_class: "transport"
+    shipping_class_id: 71
+    description: "<p>Sèrie POETESfERITS (2014).</p>\n<p>Tènica mixta, acrílic i llapis.</p>\n"
+    short_description: "<p>Sèrie POETESfERITS.</p>\n"
+    reviews_allowed: true
+    average_rating: "0.00"
+    rating_count: 0
+    related_ids: 
+      - 2979
+      - 2748
+      - 2580
+      - 3833
+      - 2651
+    upsell_ids: []
+    cross_sell_ids: []
+    parent_id: 0
+    categories: 
+      - "-ANALÓGICO"
+      - "Collage"
+    tags: 
+      - "Jordi Pagès"
+    images: 
+      - 
+        id: 4043
+        created_at: "2015-01-26T14:27:41Z"
+        updated_at: "2015-01-26T14:27:41Z"
+        src: "http://www.artinpocket.cat/wp-content/uploads/2015/01/4.-Jordi-Pagès-Collages-Sèrie-POETESfERITS-.jpeg"
+        title: "4. Jordi Pagès Collage(s)  Sèrie POETESfERITS-"
+        alt: ""
+        position: 0
+    featured_src: "http://www.artinpocket.cat/wp-content/uploads/2015/01/4.-Jordi-Pagès-Collages-Sèrie-POETESfERITS-.jpeg"
+    attributes: []
+    downloads: []
+    download_limit: 0
+    download_expiry: 0
+    download_type: ""
+    purchase_note: ""
+    total_sales: 0
+    variations: []
+    parent: []
+  - 
+    title: "Tríptic. Sèrie POETESfERITS. Jordi Pagès"
+    id: 4040
+    aspect_ratio: "9-16"
+    created_at: "2015-01-26T14:24:45Z"
+    updated_at: "2015-01-26T14:25:54Z"
+    type: "simple"
+    status: "publish"
+    downloadable: false
+    virtual: false
+    permalink: "http://www.artinpocket.cat/tienda/triptic-serie-poetesferits-jordi-pages/"
+    sku: "W885"
+    price: "900.00"
+    regular_price: "900.00"
+    sale_price: null
+    price_html: "<span class=\"amount\">900,00&euro;</span>"
+    taxable: true
+    tax_status: "taxable"
+    tax_class: ""
+    managing_stock: true
+    stock_quantity: 1
+    in_stock: true
+    backorders_allowed: false
+    backordered: false
+    sold_individually: true
+    purchaseable: true
+    featured: false
+    visible: true
+    catalog_visibility: "visible"
+    on_sale: false
+    weight: null
+    dimensions: 
+      length: ""
+      width: ""
+      height: ""
+      unit: "cm"
+    shipping_required: true
+    shipping_taxable: true
+    shipping_class: "transport"
+    shipping_class_id: 71
+    description: "<p>Tríptic SÈRIE POETESfERITS (2014).</p>\n<p>COLLAGE Acrílic, i llapis sobre cartronés</p>\n"
+    short_description: "<p>Sèrie POETESfERITS.</p>\n"
+    reviews_allowed: true
+    average_rating: "0.00"
+    rating_count: 0
+    related_ids: 
+      - 2410
+      - 2726
+      - 3299
+      - 2669
+      - 2504
+    upsell_ids: []
+    cross_sell_ids: []
+    parent_id: 0
+    categories: 
+      - "-ANALÓGICO"
+      - "Collage"
+    tags: 
+      - "Jordi Pagès"
+    images: 
+      - 
+        id: 4041
+        created_at: "2015-01-26T14:25:39Z"
+        updated_at: "2015-01-26T14:25:39Z"
+        src: "http://www.artinpocket.cat/wp-content/uploads/2015/01/3.Jordi-Pagés-Collage-Tríptic-Sèrie-POETESfERITS-Sense-títol.jpg"
+        title: "3.Jordi-Pagés-Collage-Tríptic-Sèrie-POETESfERITS- Sense-títol"
+        alt: ""
+        position: 0
+    featured_src: "http://www.artinpocket.cat/wp-content/uploads/2015/01/3.Jordi-Pagés-Collage-Tríptic-Sèrie-POETESfERITS-Sense-títol.jpg"
+    attributes: []
+    downloads: []
+    download_limit: 0
+    download_expiry: 0
+    download_type: ""
+    purchase_note: ""
+    total_sales: 0
+    variations: []
+    parent: []
+  - 
+    title: "Sense títol II. Sèrie POETESfERITS. Jordi Pagès"
+    id: 4038
+    aspect_ratio: "3-4"
+    created_at: "2015-01-26T14:17:54Z"
+    updated_at: "2015-01-26T14:24:32Z"
+    type: "simple"
+    status: "publish"
+    downloadable: false
+    virtual: false
+    permalink: "http://www.artinpocket.cat/tienda/sense-titol-ii-serie-poetesferits-jordi-pages/"
+    sku: "W884"
+    price: "350.00"
+    regular_price: "350.00"
+    sale_price: null
+    price_html: "<span class=\"amount\">350,00&euro;</span>"
+    taxable: true
+    tax_status: "taxable"
+    tax_class: ""
+    managing_stock: true
+    stock_quantity: 1
+    in_stock: true
+    backorders_allowed: false
+    backordered: false
+    sold_individually: true
+    purchaseable: true
+    featured: false
+    visible: true
+    catalog_visibility: "visible"
+    on_sale: false
+    weight: null
+    dimensions: 
+      length: ""
+      width: ""
+      height: ""
+      unit: "cm"
+    shipping_required: true
+    shipping_taxable: true
+    shipping_class: "transport"
+    shipping_class_id: 71
+    description: "<p>Sèrie POETESfERITS (2014).</p>\n<p>Collage. Acrílic i llapis sobre cartroné.</p>\n"
+    short_description: "<p>Sèrie POETESfERITS.</p>\n"
+    reviews_allowed: true
+    average_rating: "0.00"
+    rating_count: 0
+    related_ids: 
+      - 3026
+      - 3848
+      - 2592
+      - 4052
+      - 4025
+    upsell_ids: []
+    cross_sell_ids: []
+    parent_id: 0
+    categories: 
+      - "-ANALÓGICO"
+      - "Collage"
+    tags: 
+      - "Jordi Pagès"
+    images: 
+      - 
+        id: 4039
+        created_at: "2015-01-26T14:24:04Z"
+        updated_at: "2015-01-26T14:24:04Z"
+        src: "http://www.artinpocket.cat/wp-content/uploads/2015/01/2.Jordi-Pagés-Sèrie-POETESfERITS-Sense-títol.jpg"
+        title: "2.Jordi-Pagés-Sèrie-POETESfERITS- Sense-títol"
+        alt: ""
+        position: 0
+    featured_src: "http://www.artinpocket.cat/wp-content/uploads/2015/01/2.Jordi-Pagés-Sèrie-POETESfERITS-Sense-títol.jpg"
+    attributes: []
+    downloads: []
+    download_limit: 0
+    download_expiry: 0
+    download_type: ""
+    purchase_note: ""
+    total_sales: 0
+    variations: []
+    parent: []
+  - 
+    title: "Sense títol. Sèrie POETESfERITS. Jordi Pagès"
+    id: 4036
+    aspect_ratio: "3-4"
+    created_at: "2015-01-26T13:48:46Z"
+    updated_at: "2015-01-26T14:17:42Z"
+    type: "simple"
+    status: "publish"
+    downloadable: false
+    virtual: false
+    permalink: "http://www.artinpocket.cat/tienda/sense-titol-serie-poetesferits-jordi-pages/"
+    sku: "W883"
+    price: "350.00"
+    regular_price: "350.00"
+    sale_price: null
+    price_html: "<span class=\"amount\">350,00&euro;</span>"
+    taxable: true
+    tax_status: "taxable"
+    tax_class: ""
+    managing_stock: true
+    stock_quantity: 1
+    in_stock: true
+    backorders_allowed: false
+    backordered: false
+    sold_individually: true
+    purchaseable: true
+    featured: false
+    visible: true
+    catalog_visibility: "visible"
+    on_sale: false
+    weight: null
+    dimensions: 
+      length: ""
+      width: ""
+      height: ""
+      unit: "cm"
+    shipping_required: true
+    shipping_taxable: true
+    shipping_class: "transport"
+    shipping_class_id: 71
+    description: "<p>Sèrie POETESfERITS. Sense títol.</p>\n<p>Collage amb llapis i oli, sobre catroné.</p>\n"
+    short_description: "<p>Sèrie POETESfERITS.</p>\n"
+    reviews_allowed: true
+    average_rating: "0.00"
+    rating_count: 0
+    related_ids: 
+      - 4073
+      - 3950
+      - 2769
+      - 2594
+      - 2496
+    upsell_ids: []
+    cross_sell_ids: []
+    parent_id: 0
+    categories: 
+      - "-ANALÓGICO"
+      - "Collage"
+    tags: 
+      - "Jordi Pagès"
+    images: 
+      - 
+        id: 4037
+        created_at: "2015-01-26T13:50:41Z"
+        updated_at: "2015-01-26T13:50:41Z"
+        src: "http://www.artinpocket.cat/wp-content/uploads/2015/01/1.-Jordi-Pagés-Sèrie-POETESfERITS-Sense-títol.-Collage.jpg"
+        title: "1. Jordi-Pagés-Sèrie-POETESfERITS- Sense-títol. Collage"
+        alt: ""
+        position: 0
+    featured_src: "http://www.artinpocket.cat/wp-content/uploads/2015/01/1.-Jordi-Pagés-Sèrie-POETESfERITS-Sense-títol.-Collage.jpg"
+    attributes: []
+    downloads: []
+    download_limit: 0
+    download_expiry: 0
+    download_type: ""
+    purchase_note: ""
+    total_sales: 0
+    variations: []
+    parent: []
+

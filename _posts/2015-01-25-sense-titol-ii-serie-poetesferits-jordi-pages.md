@@ -2,16 +2,16 @@
 layout: post
 og: true
 og-type: product
-title: "Versos de platja N/1. Jordi Pagès" 
+title: "Sense títol II. Sèrie POETESfERITS. Jordi Pagès" 
 share: true
 class: artwork
 categories:
-  - busquet
+  - poetesferits
 published: true
-work: 3944
+work: 4038
 ---
 
-{% assign work_data = site.data.obres.busquetobrajordipages | where:"id", page.work %}
+{% assign work_data = site.data.obres.poetesferitsobrajordipages | where:"id", page.work %}
 {% assign work = work_data | first %}
 <figure>
   <div class="padding-artwork-container">

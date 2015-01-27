@@ -9,7 +9,7 @@ excerpt_separator: <!--more-->
 permalink:        pretty
 
 # Site settings
-title: '#Jordi Pagès'
+title: 'Jordi Pagès'
 email: rgil@oxygen.cat
 description: 'Jordi Pagès és un artista de Granollers (1951) amb una forta empremta a Cadaqués.'
 baseurl:
@@ -30,21 +30,17 @@ markdown: kramdown
 
 #Custom vars
 portfoli-author:
- name: "#Jordi Pagès"
+ name: "Jordi Pagès"
  url: http://www.jordipages.cat/
 organitza:
   artinpocket:
-    description:  "Artinpocket - organitzadors d'#Jordi Pagès"
+    description:  "Artinpocket - organitzadors de Jordi Pagès"
     logo: "artinpocket-organitzadors-barcelona-digital-art-footer.jpg"
     url: http://www.artinpocket.cat/
-  sidpublicitat:
-    description:  "SidPublicitat - organitzadores d'#Jordi Pagès"
-    logo: "sid-publicitat-organitzadors-jordi-pages.jpg"
-    url: http://www.sidpublicitat.com/
 
 colabora:
   oxygen:
-    description:  "Oxygen - Partner tecnològic d'#Jordi Pagès"
+    description:  "Oxygen - Partner tecnològic de Jordi Pagès"
     logo: "oxygen-organitzadors-barcelona-digital-art-footer.jpg"
     url:  http://www.oxygen.cat/
 

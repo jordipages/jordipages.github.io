@@ -12,16 +12,16 @@
     <meta property="og:title" content="{{ page.title }}" />
     <meta property="og:type" content="{{ page.og-type }}" />
     <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
-    {% assign work_data = site.data.portfoli | where:"id", page.work %}
+    {% assign work_data = site.data.obres.completaobrajordipages | where:"id", page.work %}
     {% assign work = work_data | first %}
-    <meta property="og:image" content="{{ site.url }}/images/{{ work.featured-img }}" />
+    <meta property="og:image" content="{{ work.featured_src }}" />
 
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@{{ site.twitter }}">
     <meta name="twitter:creator" content="@{% if page.twitter-username %}{{ page.twitter-username }}{% else %}{{ site.twitter }}{% endif %}">
     <meta name="twitter:title" content="{{ page.title }}">
-    <meta name="twitter:description" content="{{ work.short-description | strip_html }}">
-    <meta name="twitter:image:src" content="{{ site.url }}/images/{{ work.featured-img }}">
+    <meta name="twitter:description" content="{{ work.short_description | strip_html }}">
+    <meta name="twitter:image:src" content="{{ work.featured_src }}">
     {% endif %}
 
     <meta name="mobile-web-app-capable" content="yes">
@@ -31,7 +31,7 @@
 
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="black">
-    <meta name="apple-mobile-web-app-title" content="#Jordi Pagès">
+    <meta name="apple-mobile-web-app-title" content="Jordi Pagès">
     <link rel="apple-touch-icon-precomposed" href="apple-touch-icon-precomposed.png">
 
     <meta name="msapplication-TileImage" content="/images/touch/ms-touch-icon-144x144-precomposed.png">

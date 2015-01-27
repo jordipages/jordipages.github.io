@@ -52,10 +52,17 @@ p {
 }
 
 a {
-    color: #219ab3;
+    color: #2FDCFF;
     -webkit-transition: all .2s ease-in-out;
     -moz-transition: all .2s ease-in-out;
     transition: all .2s ease-in-out;
+}
+
+aside a {
+  color: blue;
+  -webkit-transition: all .2s ease-in-out;
+  -moz-transition: all .2s ease-in-out;
+  transition: all .2s ease-in-out;
 }
 
 img {
@@ -65,7 +72,13 @@ img {
 a:hover,
 a:focus {
     text-decoration: none;
-    color: #11505d;
+    color: #89ECFE;
+}
+
+aside a:hover,
+aside a:focus {
+  text-decoration: underline;
+  color: blue;
 }
 
 hr {
@@ -293,7 +306,27 @@ hr {
 .download-section {
     width: 100%;
     color: #fff;
-    background: url(/images/acuarela-angels-estella-walk-grayscale-jordi-pages.jpg) no-repeat center center scroll;
+    background: url(/images/jordi-pages-inauguracio-poetes-ferits-palau-zuriaga-barcelona-2014.jpg) no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+.serveis-section {
+    width: 100%;
+    color: #fff;
+    background: url(/images/jordi-pages-galeria-cadaques-espai-dos.jpg) no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+.contact-section {
+    width: 100%;
+    color: #fff;
+    background: url(/images/jordi-pages-serie-poetes-ferits-sense-títol-collage.jpg) no-repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -444,7 +477,7 @@ hr {
     transform: rotate(90deg);
 }
 
-#portfoli blockquote footer {
+#portfoli blockquote footer, #serveis blockquote footer {
   color: #ffffff;
 }
 
@@ -635,7 +668,10 @@ figure img {
     padding: 50px 0;
 }
 
-.purple-bg__full {
+.purple-bg__full,
+.purple-bg__full .panel,
+.purple-bg__full .panel-default>.panel-heading
+ {
   background-color: rgba(0,21,114,1);
   color: #ffffff;
 }

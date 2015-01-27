@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "name": "#Jordi Pagès",
+  "name": "Jordi Pagès",
   "launch_path": "/index.html",
   "description": "Jordi Pagès és un artista de Granollers (1951) amb una forta empremta a Cadaqués.",
   "icons": {
@@ -19,7 +19,7 @@
   },
   "locales": {
     "ca": {
-      "name": "#Jordi Pagès",
+      "name": "Jordi Pagès",
       "description": "Jordi Pagès és un artista de Granollers (1951) amb una forta empremta a Cadaqués."
     }
   }

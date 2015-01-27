@@ -51,3 +51,35 @@ category: mur-diari
     </div>
   {% endfor %}
 </div>
+---
+<div class="posts clearfix">
+  {% for post in site.categories['poetesferits'] reversed %}
+  <div class="post">
+
+    {{ post.excerpt }}    
+
+  <h2 class="post-title">
+      <a href="{{ post.url }}">
+        {{ post.title }}
+      </a>
+    </h2>
+    <p class="text-center"><a href="{{ post.url }}"><i class="fa fa-lg fa-plus-square-o"></i></a></p>
+    </div>
+  {% endfor %}
+</div>
+---
+<div class="posts clearfix">
+  {% for post in site.categories['farcalanans'] reversed %}
+  <div class="post">
+
+    {{ post.excerpt }}    
+
+  <h2 class="post-title">
+      <a href="{{ post.url }}">
+        {{ post.title }}
+      </a>
+    </h2>
+    <p class="text-center"><a href="{{ post.url }}"><i class="fa fa-lg fa-plus-square-o"></i></a></p>
+    </div>
+  {% endfor %}
+</div>
