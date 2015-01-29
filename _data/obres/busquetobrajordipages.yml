@@ -31,7 +31,7 @@
     on_sale: false
     weight: null
     dimensions: 
-      length: ""
+      length: "40"
       width: "40"
       height: "50"
       unit: "cm"
@@ -39,7 +39,7 @@
     shipping_taxable: true
     shipping_class: "transport"
     shipping_class_id: 71
-    description: "<p>Sèrie inspirada en poemes de Núria Busquet.</p>\n<p>Tècnica mixta, acrílic i llapis d'oli.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n"
+    description: "<p>Sèrie inspirada en poemes de Núria Busquet.</p>\n<p>Tècnica mixta, acrílic i llapis d'oli.</p>\n"
     short_description: "<p>Sèrie inspirada en poemes de Núria Busquet.</p>\n"
     reviews_allowed: true
     average_rating: "0.00"
@@ -109,7 +109,7 @@
     on_sale: false
     weight: null
     dimensions: 
-      length: ""
+      length: "40"
       width: "40"
       height: "50"
       unit: "cm"
@@ -117,7 +117,7 @@
     shipping_taxable: true
     shipping_class: "transport"
     shipping_class_id: 71
-    description: "<p>Sèrie inspirada en poemes de Núria Busquet.</p>\n<p>Llapis d'oli sobre cartoné.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n"
+    description: "<p>Sèrie inspirada en poemes de Núria Busquet.</p>\n<p>Llapis d'oli sobre cartoné.</p>\n"
     short_description: "<p>Sèrie inspirada en poemes de Núria Busquet.</p>\n"
     reviews_allowed: true
     average_rating: "0.00"
@@ -187,7 +187,7 @@
     on_sale: false
     weight: null
     dimensions: 
-      length: ""
+      length: "40"
       width: "40"
       height: "50"
       unit: "cm"
@@ -195,7 +195,7 @@
     shipping_taxable: true
     shipping_class: "transport"
     shipping_class_id: 71
-    description: "<p>Sèrie inspirada en poemes de Núria Busquet.</p>\n<p>Versos de platja.</p>\n<p>Llapis d'oli sobre cartoné.</p>\n<p>&nbsp;</p>\n"
+    description: "<p>Sèrie inspirada en poemes de Núria Busquet.</p>\n<p>Versos de platja.</p>\n<p>Llapis d'oli sobre cartoné.</p>\n"
     short_description: "<p>Sèrie inspirada en poemes de Núria Busquet.</p>\n"
     reviews_allowed: true
     average_rating: "0.00"
@@ -265,7 +265,7 @@
     on_sale: false
     weight: null
     dimensions: 
-      length: ""
+      length: "40"
       width: "40"
       height: "50"
       unit: "cm"
@@ -343,7 +343,7 @@
     on_sale: false
     weight: null
     dimensions: 
-      length: ""
+      length: "50"
       width: "50"
       height: "70"
       unit: "cm"
@@ -351,7 +351,7 @@
     shipping_taxable: true
     shipping_class: "transport"
     shipping_class_id: 71
-    description: "<p>Sèrie inspirada en frases de Núria Pujolàs</p>\n<p>'De nit omplo el rebost del somni'.</p>\n<p>Acrílic i llapis d'oli sobre cartroné.</p>\n<p>&nbsp;</p>\n"
+    description: "<p>Sèrie inspirada en frases de Núria Pujolàs</p>\n<p>'De nit omplo el rebost del somni'.</p>\n<p>Acrílic i llapis d'oli sobre cartroné.</p>\n"
     short_description: "<p>Sèrie inspirada en frases de Núria Pujolàs.</p>\n"
     reviews_allowed: true
     average_rating: "0.00"
@@ -421,7 +421,7 @@
     on_sale: false
     weight: null
     dimensions: 
-      length: ""
+      length: "50"
       width: "50"
       height: "70"
       unit: "cm"
@@ -499,7 +499,7 @@
     on_sale: false
     weight: null
     dimensions: 
-      length: ""
+      length: "50"
       width: "50"
       height: "70"
       unit: "cm"
@@ -577,7 +577,7 @@
     on_sale: false
     weight: null
     dimensions: 
-      length: ""
+      length: "50"
       width: "50"
       height: "70"
       unit: "cm"
@@ -585,7 +585,7 @@
     shipping_taxable: true
     shipping_class: "transport"
     shipping_class_id: 71
-    description: "<p><strong>De nit omplo el rebost del somni</strong>. Sèrie inspirada en frases de Núria Pujolàs.</p>\n<p>Acrílic i tinta xina sobre cartoné.</p>\n<p>&nbsp;</p>\n"
+    description: "<p><strong>De nit omplo el rebost del somni</strong>. Sèrie inspirada en frases de Núria Pujolàs.</p>\n<p>Acrílic i tinta xina sobre cartoné.</p>\n"
     short_description: "<p>Sèrie inspirada en frases de Núria Pujolàs.</p>\n"
     reviews_allowed: true
     average_rating: "0.00"
@@ -655,7 +655,7 @@
     on_sale: false
     weight: null
     dimensions: 
-      length: ""
+      length: "40"
       width: "40"
       height: "50"
       unit: "cm"
@@ -663,7 +663,7 @@
     shipping_taxable: true
     shipping_class: "transport"
     shipping_class_id: 71
-    description: "<p>Sèrie inspirada en frases de Núria Pujolàs.</p>\n<p>'Hi ha solituds // de paisatge obert // on l'estimo // és un genèric de brisa de mar'.</p>\n<p>&nbsp;</p>\n"
+    description: "<p>Sèrie inspirada en frases de Núria Pujolàs.</p>\n<p>'Hi ha solituds // de paisatge obert // on l'estimo // és un genèric de brisa de mar'.</p>\n"
     short_description: "<p>Sèrie inspirada en frases de Núria Pujolàs.</p>\n"
     reviews_allowed: true
     average_rating: "0.00"
