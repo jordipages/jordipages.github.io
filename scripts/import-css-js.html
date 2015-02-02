@@ -27,16 +27,17 @@
     })(window, document);
     </script>
     <script src="/bower_components/pjax/src/pjax.min.js"></script>
-    <script type="text/javascript">
+    <script>
       if (navigator.onLine) {
         new Pjax({
           elements: "a", // default is "a[href], form[action]"
           selectors: ["title","meta","section"]
         })
       }
-    <script type="text/javascript" src="/vendor/add-to-homescreen/addtohomescreen.min.js"></script>
+    </script>
+    <script src="/vendor/add-to-homescreen/addtohomescreen.min.js"></script>
     <script>
-    addToHomescreen();
+      addToHomescreen();
     </script>
 
   <script>
