@@ -43,7 +43,6 @@ self.addEventListener('install', function(event) {
         '/bower_components/polymer/layout.min.html',
         '/bower_components/polymer/polymer.min.js',
         '/bower_components/webcomponentsjs/webcomponents.min.js',
-        '/bower_components/pjax/src/pjax.min.js',
         '/scripts/jquery-1.11.0.min.js',
         '/scripts/bootstrap.min.js',
         '/scripts/jquery.easing.min.js',
