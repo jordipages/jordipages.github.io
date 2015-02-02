@@ -27,8 +27,8 @@
     })(window, document);
     </script>
     <script type="text/javascript">
+      importScripts('/bower_components/pjax/src/pjax.min.js');
       if (navigator.onLine) {
-        importScripts('/bower_components/pjax/src/pjax.min.js');
         new Pjax({
           elements: "a", // default is "a[href], form[action]"
           selectors: ["title","meta","section"]
