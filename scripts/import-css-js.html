@@ -14,7 +14,6 @@
     <script src="/scripts/jquery.easing.min.js" async></script>
     <!-- Custom Theme JavaScript -->
     <script src="/scripts/grayscale.min.js" async></script>
-    <script src="/bower_components/pjax/src/pjax.min.js"></script>
     <script type="text/javascript">
     (function(window, document, undefined) {
       'use strict';
@@ -26,15 +25,13 @@
         });
       }
     })(window, document);
-  </script>
-
+    </script>
+    <script src="/bower_components/pjax/src/pjax.min.js"></script>
     <script type="text/javascript">
-      if (navigator.onLine) {
-        new Pjax({
-          elements: "a", // default is "a[href], form[action]"
-          selectors: ["title","meta","section"]
-        })
-      }
+      new Pjax({
+        elements: "a", // default is "a[href], form[action]"
+        selectors: ["title","meta","section"]
+      })
     </script>
     <script type="text/javascript" src="/vendor/add-to-homescreen/addtohomescreen.min.js"></script>
     <script>
