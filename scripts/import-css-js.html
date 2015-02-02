@@ -14,8 +14,20 @@
     <script src="/scripts/jquery.easing.min.js" async></script>
     <!-- Custom Theme JavaScript -->
     <script src="/scripts/grayscale.min.js" async></script>
-    <script src="/bower_components/appcache-autoupdate/appcache-nanny.min.js" async></script>
     <script src="/bower_components/pjax/src/pjax.min.js"></script>
+    <script type="text/javascript">
+    (function(window, document, undefined) {
+      'use strict';
+      if (navigator.serviceWorker) {
+        navigator.serviceWorker.register('/worker.js').then(function(reg) {
+          console.log('◕‿◕', reg);
+        }, function(err) {
+          console.log('ಠ_ಠ', err);
+        });
+      }
+    })(window, document);
+  </script>
+
     <script type="text/javascript">
       if (navigator.onLine) {
         new Pjax({
@@ -24,7 +36,7 @@
         })
       }
     </script>
-    <script type="text/javascript" src="/vendor/add-to-homescreen/addtohomescreen.min.js" async></script>
+    <script type="text/javascript" src="/vendor/add-to-homescreen/addtohomescreen.min.js"></script>
     <script>
     addToHomescreen();
     </script>
