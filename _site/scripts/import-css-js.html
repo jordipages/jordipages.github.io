@@ -28,12 +28,10 @@
     </script>
     <script src="/bower_components/pjax/src/pjax.min.js"></script>
     <script type="text/javascript">
-    if (navigator.onLine) {
-        new Pjax({
-        elements: "a", // default is "a[href], form[action]"
-        selectors: ["title","meta","section"]
-      })
-    }
+    new Pjax({
+      elements: "a", // default is "a[href], form[action]"
+      selectors: ["title","meta","section"]
+    })
     </script>
     <script src="/vendor/add-to-homescreen/addtohomescreen.min.js"></script>
     <script>
