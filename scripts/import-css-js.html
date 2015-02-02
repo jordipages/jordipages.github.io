@@ -26,6 +26,15 @@
       }
     })(window, document);
     </script>
+    <script type="text/javascript">
+      if (navigator.onLine) {
+        importScripts('/bower_components/cache-polyfill/dist/serviceworker-cache-polyfill.js');
+        new Pjax({
+          elements: "a", // default is "a[href], form[action]"
+          selectors: ["title","meta","section"]
+        })
+      }
+    </script>
     <script type="text/javascript" src="/vendor/add-to-homescreen/addtohomescreen.min.js"></script>
     <script>
     addToHomescreen();
