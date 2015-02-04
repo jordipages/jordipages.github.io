@@ -1,3 +1,5 @@
+---
+---
 importScripts('/bower_components/cache-polyfill/dist/serviceworker-cache-polyfill.js');
 
 // The SW will be shutdown when not in use to save memory,
@@ -49,47 +51,9 @@ self.addEventListener('install', function(event) {
         '/scripts/grayscale.min.js',
         '/vendor/add-to-homescreen/addtohomescreen.min.js',
         '/vendor/add-to-homescreen/addtohomescreen.min.css',
-        '/atom.xml',
-        '/feed.xml',
-        '/',
-        '/obres/',
-        '/sitemap.xml',
-        '/busquet/2015/01/25/versos-de-platja-n-4-jordi-pages/',
-        '/busquet/2015/01/25/versos-de-platja-n-3-jordi-pages/',
-        '/busquet/2015/01/25/versos-de-platja-n-2-jordi-pages/',
-        '/busquet/2015/01/25/versos-de-platja-n-1-jordi-pages/',
-        '/poetesferits/2015/01/25/triptic-serie-poetesferits-jordi-pages/',
-        '/poetesferits/2015/01/25/sense-titol-serie-poetesferits-jordi-pages/',
-        '/poetesferits/2015/01/25/sense-titol-iii-serie-poetesferits-jordi-pages/',
-        '/poetesferits/2015/01/25/sense-titol-ii-serie-poetesferits-jordi-pages/',
-        '/busquet/2015/01/25/quan-em-va-dir-per-sempre-vaig-veure-un-cactus-jordi-pages/',
-        '/opinions/2015/01/25/maria-palau-jordi-pages/',
-        '/opinions/2015/01/25/manel-clot-jordi-pages/',
-        '/ferrater/2015/01/25/les-dones-jordi-pages/',
-        '/opinions/2015/01/25/joaquim-pibernat-jordi-pages/',
-        '/farcalanans/2015/01/25/iv-jordi-pages-collage-serie-far-de-cala-nans-cadaques-inspirada-en-la-poesia-de-michel-houellebecq/',
-        '/opinions/2015/01/25/imma-pueyo-jordi-pages/',
-        '/farcalanans/2015/01/25/iii-jordi-pages-collage-serie-far-de-cala-nans-cadaques-inspirada-en-la-poesia-de-michel-houellebecq/',
-        '/farcalanans/2015/01/25/ii-jordi-pages-collage-serie-far-de-cala-nans-cadaques-inspirada-en-la-poesia-de-michel-houellebecq/',
-        '/farcalanans/2015/01/25/i-jordi-pages-collage-serie-far-de-cala-nans-cadaques-inspirada-en-la-poesia-de-michel-houellebecq/',
-        '/busquet/2015/01/25/hi-ha-solituds-de-paisatge-obert-on-l-estimo-es-un-generic-de-brisa-de-mar-jordi-pages/',
-        '/opinions/2015/01/25/eudald-camps-jordi-pages/',
-        '/busquet/2015/01/25/estimo-tant-les-paraules-jordi-pages/',
-        '/vinyoli/2015/01/25/es-poden-fer-moltes-coses-jordi-pages/',
-        '/vinyoli/2015/01/25/en-la-silent-i-closa-nit-rocosa-jordi-pages/',
-        '/vinyoli/2015/01/25/en-la-silent-i-closa-nit-rocosa-ii-jordi-pages/',
-        '/ferrater/2015/01/25/els-miralls-jordi-pages/',
-        '/busquet/2015/01/25/de-nit-omplo-el-rebost-del-somni-jordi-pages/',
-        '/busquet/2015/01/25/de-nit-omplo-el-rebost-del-somni-ii-jordi-pages/',
-        '/darrereseposicions/2015/01/25/darreres-exposicions-jordi-pages-2015/',
-        '/darrereseposicions/2015/01/25/darreres-exposicions-jordi-pages-2014/',
-        '/darrereseposicions/2015/01/25/darreres-exposicions-jordi-pages-2013/',
-        '/darrereseposicions/2015/01/25/darreres-exposicions-jordi-pages-2012/',
-        '/darrereseposicions/2015/01/25/darreres-exposicions-jordi-pages-2011/',
-        '/darrereseposicions/2015/01/25/darreres-exposicions-jordi-pages-2010/',
-        '/opinions/2015/01/25/cal-talavero-jordi-pages/',
-        '/ferrater/2015/01/25/architettura-jordi-pages/',
-        '/opinions/2015/01/24/vicenc-altaio-jordi-pages/'
+        {% for page in site.pages %}{% if page.url != '/worker.js' and page.url != '/404.html' %}'{{ page.url }}',{% endif %}
+        {% endfor %}{% for post in site.posts %}{% if post.url != '/worker.js' and post.url != '/404.html' and forloop.last != true %}'{{ post.url }}',{% elsif post.url != '/worker.js' and post.url != '/404.html' and forloop.last == true %}'{{ post.url }}'{% endif %}
+        {% endfor %}
       ]);
     })
   )
