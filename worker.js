@@ -5,8 +5,8 @@ importScripts('/bower_components/cache-polyfill/dist/serviceworker-cache-polyfil
 // The SW will be shutdown when not in use to save memory,
 // be aware that any global state is likely to disappear
 
-var DEFAULT_CACHE = 'jordipages-app-cache2';
-var AIP_CACHE = 'jordipages-aip-cache2';
+var DEFAULT_CACHE = 'jordipages-app-cache3';
+var AIP_CACHE = 'jordipages-aip-cache3';
 
 console.log('SW startup', DEFAULT_CACHE);
 
