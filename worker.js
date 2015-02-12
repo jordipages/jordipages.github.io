@@ -5,8 +5,8 @@ importScripts('/bower_components/cache-polyfill/dist/serviceworker-cache-polyfil
 // The SW will be shutdown when not in use to save memory,
 // be aware that any global state is likely to disappear
 
-var DEFAULT_CACHE = 'jordipages-app-cache3';
-var AIP_CACHE = 'jordipages-aip-cache3';
+var DEFAULT_CACHE = 'jordipages-app-cache4';
+var AIP_CACHE = 'jordipages-aip-cache4';
 
 console.log('SW startup', DEFAULT_CACHE);
 
@@ -49,6 +49,7 @@ self.addEventListener('install', function(event) {
         '/scripts/bootstrap.min.js',
         '/scripts/jquery.easing.min.js',
         '/scripts/grayscale.min.js',
+        '/scripts/import-css-js.html',
         '/vendor/add-to-homescreen/addtohomescreen.min.js',
         '/vendor/add-to-homescreen/addtohomescreen.min.css',
         {% for page in site.pages %}{% if page.url != '/worker.js' and page.url != '/404.html' %}'{{ page.url }}',{% endif %}
