@@ -5,8 +5,8 @@ importScripts('/bower_components/cache-polyfill/dist/serviceworker-cache-polyfil
 // The SW will be shutdown when not in use to save memory,
 // be aware that any global state is likely to disappear
 
-var DEFAULT_CACHE = 'jordipages-app-cache4';
-var AIP_CACHE = 'jordipages-aip-cache4';
+var DEFAULT_CACHE = 'jordipages-app-cache5';
+var AIP_CACHE = 'jordipages-aip-cache5';
 
 console.log('SW startup', DEFAULT_CACHE);
 
@@ -17,7 +17,16 @@ self.addEventListener('install', function(event) {
       return cache.addAll([
         '/styles/main.css',
         '/font-awesome/css/font-awesome.min.css',
+        '/font-awesome/fonts/FontAwesome.otf',
+        '/font-awesome/fonts/fontawesome-webfont.eot',
+        '/font-awesome/fonts/fontawesome-webfont.svg',
+        '/font-awesome/fonts/fontawesome-webfont.ttf',
+        '/font-awesome/fonts/fontawesome-webfont.woff',
         '/font-artinpocket/dist/stylesheet.min.css',
+        '/font-artinpocket/dist/artinpocket-webfont.eot',
+        '/font-artinpocket/dist/artinpocket-webfont.svg',
+        '/font-artinpocket/dist/artinpocket-webfont.ttf',
+        '/font-artinpocket/dist/artinpocket-webfont.woff',
         '/feed.xml',
         '/images/touch/chrome-touch-icon-192x192.png',
         '/apple-touch-icon-precomposed.png',
