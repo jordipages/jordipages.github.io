@@ -15,6 +15,7 @@
     {% assign work_data = site.data.obres.completaobrajordipages | where:"id", page.work %}
     {% assign work = work_data | first %}
     <meta property="og:image" content="{{ work.featured_src }}" />
+    <meta property="og:description" content="{{ work.description | strip_html }}" />
 
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@{{ site.twitter }}">
