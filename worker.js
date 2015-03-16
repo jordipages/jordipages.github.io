@@ -35,6 +35,25 @@ self.addEventListener('install', function(event) {
         '/images/1-jordi-pages-collage-serie-far-de-cala-nans-cadaques-inspirada-en-la-poesia-de-michel-houellebecq.jpg',
         '/images/2-jordi-pages-collage-serie-far-de-cala-nans-cadaques-inspirada-en-la-poesia-de-michel-houellebecq.jpg',
         '/images/3-jordi-pages-collage-serie-far-de-cala-nans-cadaques-inspirada-en-la-poesia-de-michel-houellebecq.jpg',
+        "/images/1.Jordi-Pagès-Collages-Sèrie-Gabriel-Ferrater-Les-dones.-.jpeg",
+        "/images/2.-Jordi-Pagès-Collages-Sèrie-Gabriel-Ferrater-Architettura.jpeg",
+        "/images/2.Jordi-Pagès-Collage-Hi-ha-solituds-.jpg",
+        "/images/3.Jordi-Pagès-.-Collages-Sèrie-Gabriel-Ferrater.-Els-miralls.jpeg",
+        "/images/3.Jordi-Pagès-Collages-De-nit-omplo-el-rebost-del-somni.jpg",
+        "/images/4.-Jordi-Pagès-Collages-Sèrie-POETESfERITS-.jpeg",
+        "/images/4.Jordi-Pagès-Collage-Quan-em-va-dir-per-sempre-vaig-veure-un-cactus_.jpg",
+        "/images/5.Jordi-Pagès-Collage-Estimo-tant-les-paraules.jpg",
+        "/images/6.Jordi-Pagès-Collage-De-nit-omplo-el-rebost-del-somni.jpg",
+        "/images/1.-Jordi-Pagés-Pintura-Collage-Es-poden-fer-moltes-coses.jpg",
+        "/images/1.-Jordi-Pagés-Sèrie-POETESfERITS-Sense-títol.-Collage.jpg",
+        "/images/1.Collage-Jordi-Pagés-Versos-de-platja-N1-.jpg",
+        "/images/2.-Jordi-Pagés-Collage-En-la-silent-i-la-closa-nit-rocosa.jpg",
+        "/images/2.Jordi-Pagés-Sèrie-POETESfERITS-Sense-títol.jpg",
+        "/images/3.-Jordi-Pagés-Collage-Cap-al-no-res.jpg",
+        "/images/3.Jordi-Pagés-Collage-Tríptic-Sèrie-POETESfERITS-Sense-títol.jpg",
+        "/images/7.-Jordi-Pagés-Collage-Versos-de-Platja.jpg",
+        "/images/8.Jordi-Pagés-Collage-Versos-de-Platja-2.jpg",
+        "/images/9..Jordi-Pagés-Collage-Obrim-el-cos..jpg",
         '/images/4-jordi-pages-gravat-serie-far-de-cala-nans-cadaques.jpg',
         '/images/artinpocket-organitzadors-barcelona-digital-art-footer.jpg',
         '/images/grayscale-jordi-pages.jpg',
@@ -96,7 +115,7 @@ self.addEventListener('fetch', function(event) {
   console.log('fetching', event.request.url);
   var requestURL = new URL(event.request.url);
 
-  if (requestURL.hostname == 'artinpocket.cat') {
+  if (requestURL.hostname == 'www.artinpocket.cat') {
     console.log('fetching from aip');
     event.respondWith(aipResponse(event.request));
   } else {
