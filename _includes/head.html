@@ -14,7 +14,7 @@
     <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
     {% assign work_data = site.data.obres.completaobrajordipages | where:"id", page.work %}
     {% assign work = work_data | first %}
-    <meta property="og:image" content="{{ work.featured_src }}" />
+    <meta property="og:image" content="{{ site.url }}{{ work.featured_src }}" />
     <meta property="og:description" content="{{ work.description | strip_html }}" />
 
     <meta name="twitter:card" content="summary_large_image">
@@ -22,7 +22,7 @@
     <meta name="twitter:creator" content="@{% if page.twitter-username %}{{ page.twitter-username }}{% else %}{{ site.twitter }}{% endif %}">
     <meta name="twitter:title" content="{{ page.title }}">
     <meta name="twitter:description" content="{{ work.short_description | strip_html }}">
-    <meta name="twitter:image:src" content="{{ work.featured_src }}">
+    <meta name="twitter:image:src" content="{{ site.url }}{{ work.featured_src }}">
     {% endif %}
 
     <meta name="mobile-web-app-capable" content="yes">
