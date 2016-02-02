@@ -1,14 +1,13 @@
 {
   "name": "cache-polyfill",
   "homepage": "https://github.com/coonsta/cache-polyfill",
-  "_release": "7702c6cc54",
+  "_release": "9043d94c6e",
   "_resolution": {
     "type": "branch",
     "branch": "master",
-    "commit": "7702c6cc549fcd69efdcacbf1e8cf355e87deccb"
+    "commit": "9043d94c6e5292c6e80ac25e9720cd0a227b6af9"
   },
   "_source": "git://github.com/coonsta/cache-polyfill.git",
   "_target": "*",
-  "_originalSource": "git://github.com/coonsta/cache-polyfill.git",
-  "_direct": true
+  "_originalSource": "git://github.com/coonsta/cache-polyfill.git"
 }
